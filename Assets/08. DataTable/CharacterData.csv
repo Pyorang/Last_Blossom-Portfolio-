@@ -1,0 +1,2 @@
+ID,MaxHP,HPRegen,MaxEnergy,EnergyRegen,HitEnergyRecovery,MaxAwakening,HitAwakeningRecovery,AwakeningDuration,Attack,CritRate,CritDamage,JustDamageBonus,EUse,QUse
+Player,1000,2,100,2,0.5,100,0.5,20,500,15,150,70,30,100

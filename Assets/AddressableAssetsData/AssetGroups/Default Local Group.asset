@@ -1,0 +1,503 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 8a08fd87bb926704dab99318222a3932
+  m_SerializeEntries:
+  - m_GUID: 016e4e6f6c3d9c64599432d4417d1aa5
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uCE74\uD0C0\uB098\uC9D1\uC5B4\uB123\uAE30_\uCE7C\uB3CC\uB9BC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 025177d1479fbcd43b267d894e2d20c9
+    m_Address: "Audio/\uD0F1\uCEE4_\uC77C\uBC18\uAC00\uB054_01"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04fd1d2e9ff24fc47a22e8f7d40e97da
+    m_Address: Enemy/Kamikaze
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09d954b2e49aef647a56e778856c6302
+    m_Address: "Audio/\uC6D0\uAC70\uB9AC\uBC1C\uC0AC\uCCB4_\uD53C\uACA9"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a5ac85fca48cb942b50230c2cb6216f
+    m_Address: "Audio/\uD0F1\uCEE4_\uC774\uB3D9_\uBC1C\uAC78\uC74C_\uCFF5_02"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cce7b01c22202e4d9c64de9d4ba2f0b
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uCE7C\uC9D1\uC5B4\uB123\uC74C"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1012f2de483194b458f3b57f207dd9e6
+    m_Address: "Audio/\uC801_\uD53C\uACA9_E\uC2A4\uD0AC\uADFC\uC811"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2043508e2d7837e41a61c1c0221a28c8
+    m_Address: "Audio/\uC6E8\uC774\uBE0C\uD074\uB9AC\uC5B4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21d2f369ae12a8540b8b56f5e7ea5720
+    m_Address: "Audio/\uC790\uD3ED\uBAAC_\uD3ED\uBC1C"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22e98c8d312fd4b4cbc21012e300734c
+    m_Address: Audio/PlayerShout08
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c536bbb4c558f248bbed7d58a3a1559
+    m_Address: Audio/Vo_Player_Evade
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c8d7f3a30ce1034d967f9934d97d754
+    m_Address: Audio/Hit06
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e1b37927fccc1a42bd05ed9cb085640
+    m_Address: Enemy/Tank
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e83f73b646029548a4fe698fea9477d
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4\uAD81\uADF9\uAE30_\uC774\uD399\uD2B82(\uBCBD\uB825\uC77C\uC12C)"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30dc01a391828514488de4a7021bae4d
+    m_Address: Enemy/Spawner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 314f8f9c88ce59343b8e9911c0cfe90c
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4\uC774\uB3D9_\uBC1C\uAC78\uC74C04"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34c752db88086b646a1ba972d6789197
+    m_Address: "Audio/\uC2A4\uD3EC\uB108_\uC0AC\uB9DD"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 365232ae14a04b440a712318ebe5482e
+    m_Address: "Audio/\uB85C\uBE44BGM"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 367a5d1f5e0d6c545a4904e40234d209
+    m_Address: "Audio/\uD0F1\uAC70_\uADF8\uB85C\uAE30"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3725fd8b11a26f84db9cd2f3eb013823
+    m_Address: Data/CharacterData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37e4e2dc7402ca04fa84eaafeb12ad10
+    m_Address: Data/WaveData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38e11f1bb5303964a8cfc02c99559d20
+    m_Address: Audio/Vo_Player_Eskill
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 392051bf80077664d876298c504cc2ff
+    m_Address: "Audio/\uC801_\uD53C\uACA9_\uC77C\uBC18\uACF5\uACA9_2\uD0C0"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b41c82436bb98a41b3b2743ea5a57fb
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4\uC774\uB3D9_\uBC1C\uAC78\uC74C03"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f4bfb97bb0d7714eb53b00c9bfd77fb
+    m_Address: Enemy/Melee
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4447332090113bf47b51906ecf48be21
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uD68C\uD53C\uBC1C\uB3D9"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4654292a48f006a4c87f5b2f30008541
+    m_Address: Audio/Hit07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4931949d909dbd746b213c5e7b81157e
+    m_Address: "Audio/\uC790\uD3ED\uBAAC_\uD3ED\uBC1C\uC9C1\uC804"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49af2d7ba2287bd4c9f5fa061fe72010
+    m_Address: "Audio/\uC790\uD3ED\uBAAC_\uC77C\uBC18\uC774\uB3D9"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49cda0d482459744cb99ab6698052c3c
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_E\uC2A4\uD0AC\uADFC\uC811\uACF5\uACA9"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a03b9c7e7fc71840b3763c14ee27da3
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_E\uC2A4\uD0AC\uBC1C\uB3D9"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d0f644d919b8fd4c958d38b31527539
+    m_Address: Audio/PlayerShout00
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f277994ab2084f4abf0b54bb52ee69b
+    m_Address: "Audio/\uD6A8\uACFC\uC74C_\uAC8C\uC784\uC624\uBC84\uC2DC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51b9b41d25a8fb54f87fe91124918b32
+    m_Address: Audio/WOMAN14_A001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52cdb9482ff07394880cba5d38a698e8
+    m_Address: "Audio/UI_\uAC8C\uC784\uC2DC\uC791\uBC84\uD2BC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54a0fa6e2e2fb264a988d0a0dba6985d
+    m_Address: Audio/Hit00
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56d76ba59286bd949be15832845bf05a
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uC77C\uBC18\uACF5\uACA9\uD718\uB450\uB984_03"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 574910820576e6b48855f8bb159fa583
+    m_Address: "Audio/\uADFC\uC811\uBAAC_\uD53C\uACA9\uC2DC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59674036d083c9847816197585ce9550
+    m_Address: "Audio/\uD0F1\uCEE4_\uC774\uB3D9_\uBC1C\uAC78\uC74C_\uCFF5_01"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5aeb0a392e8a80c448a16ba74385475a
+    m_Address: "Audio/\uC6E8\uC774\uBE0C\uC2DC\uC791\uC2DC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dfc492b1a2a1014cab1e899509b6fa1
+    m_Address: Audio/PlayerShout05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f39f812f5999974cb5bd8b976b55114
+    m_Address: Audio/Hit04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f87ceab79be64e4a969efc15f186c5c
+    m_Address: Audio/PlayerShout09
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6625be25fae95d6478739c094e039d50
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uC77C\uBC18\uACF5\uACA9\uD718\uB450\uB984_01"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66d6a57f9a205d14bb3c5b3b42ad4b20
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uC2DC\uC791\uCEF7\uC52C_\uCE7C\uC7A1\uAE30"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 672cc3cd4fc81e74eb355dc51f2d10d5
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4\uC774\uB3D9_\uBC1C\uAC78\uC74C02"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 688f94a1931c97c44a2ce2d59be31653
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4\uC774\uB3D9_\uBC1C\uAC78\uC74C01"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6beb606fbac8f4d0e9ea410969417e51
+    m_Address: "Audio/\uD0F1\uCEE4_\uC0AC\uB9DD\uC2DC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71a6c5547ad9395418b5863ff302d7b7
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uC77C\uBC18\uACF5\uACA9\uD718\uB450\uB984_02"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72c74c4ae8054bb40beece6a52e83afe
+    m_Address: "Audio/\uC601\uBAA9_\uBCF4\uD638\uB9C9\uBCF5\uAD6C"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72d91c3ad81bbf348b9800adeea460d4
+    m_Address: Audio/Hit02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7768615626a74384f8972749713abb1b
+    m_Address: "Audio/\uADFC\uC811\uBAAC_\uACF5\uACA9\uB0B4\uB294\uC18C\uB9AC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78e6eb53d9c15ca43901b0ed605a505b
+    m_Address: "Audio/\uC6D0\uAC70\uB9AC\uBAAC_\uC0AC\uB9DD"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ee701f147994cf43b45159f3a8704ba
+    m_Address: "Audio/\uC790\uD3ED\uBAAC_\uC0AC\uB9DD"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83ed8ea8031f6764290209fd40bd3c29
+    m_Address: "Audio/\uADFC\uC811\uBAAC_\uD56D\uC0C1_\uAC00\uB054\uB098\uAC8C\uD558\uAE30_02"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84efa052405bce245835b9190fb1f784
+    m_Address: "Audio/UI_\uB4A4\uB85C\uAC00\uAE30\uD074\uB9AD"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87a21d654b5674b42966a109470c2818
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uAC01\uC131_\uC720\uC9C0"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8969dbadd3c52e84e86a30b96eeed022
+    m_Address: Audio/PlayerShout07
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a0fc91373a05b4429ac61d209f6c7e9
+    m_Address: "Audio/UI_\uD074\uB9AD"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8db348fe3c7189540b4a9cfaa9263310
+    m_Address: "Audio/UI_\uD2B9\uC804\uC120\uD0DD_\uB098\uD0C0\uB098\uAE30"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9045900eb366ccb4aac99b060f648236
+    m_Address: "Audio/\uC6D0\uAC70\uB9AC\uBAAC_\uD56D\uC0C1_\uB0A0\uAC1C\uC18C\uB9AC_02"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 939c1d1873b3f3047918bfc59b682a82
+    m_Address: "Audio/UI_\uB9C8\uC6B0\uC2A4\uAC00\uC704\uC5D0\uC62C\uB77C\uAC10"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9926fd70986ffeb46bfb89f0cc545a2e
+    m_Address: "Audio/\uADFC\uC811\uBAAC_\uD56D\uC0C1_\uAC00\uB054\uB098\uAC8C\uD558\uAE30_01"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99da3a0ab0e48a843857ae0105244948
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4\uAD81\uADF9\uAE30_\uC774\uD399\uD2B81(\uD68C\uC804)"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b38deaeb5f7b1c44a282c099ac928ac
+    m_Address: Audio/WOMAN14_A000
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9df04ff8cb9614b46a03527c04d3d477
+    m_Address: "Audio/\uC6D0\uAC70\uB9AC\uBAAC_\uACF5\uACA9"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a07b70984bae6124c869864d7125866e
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4\uAD81\uADF9\uAE30_\uBC1C\uB3C4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a36d4c9a930a8094db71f07e46284518
+    m_Address: Audio/PlayerShout04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a52e02a7c47f52943be26cc0295a38c5
+    m_Address: "Audio/\uC2A4\uD3EC\uB108_\uC18C\uD658"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a866d7607ddb83644a81cc0b1c2a72d7
+    m_Address: "Audio/\uD0F1\uCEE4_\uC77C\uBC18\uACF5\uACA9_\uD718\uB450\uB984"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa1aa7fe2ff9e5b4bba660495f6cbba6
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uC0AC\uB9DD\uC2DC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac2ae09865fb14a43ace564bb3ddaa44
+    m_Address: Data/PerkData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad818be6725fbb84ca06902aea0c5667
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uAC01\uC131_\uC2DC\uC791"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2fab47cab29fc041a2547b2a7e053c3
+    m_Address: "Audio/\uADFC\uC811\uBAAC_\uC0AC\uB9DD"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2f8d510ff3c091458d23d8d5f2151e7
+    m_Address: "Audio/\uC790\uD3ED\uBAAC_\uD3C9\uC18C_01"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c306427246194cd4ab23c56db9aae2e4
+    m_Address: "Audio/\uC601\uBAA9_\uD53C\uACA9\uC2DC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b3b30cf5511664083dcd47d1c561d4
+    m_Address: "Audio/\uC801_\uD53C\uACA9_\uC77C\uBC18\uACF5\uACA9_3\uD0C0"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7d5c8951d7c0cd49a627e057f3f860c
+    m_Address: "Audio/\uC801_\uD53C\uACA9_\uC77C\uBC18\uACF5\uACA9_1\uD0C0"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c87a476932e35ed41b7b8aa3df06370d
+    m_Address: "Audio/UI_\uD2B9\uC804\uC120\uD0DD\uC774\uD6C4_\uC0AC\uB77C\uC9C0\uAE30"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8caf86f0d706a845aab2476ef4e9b39
+    m_Address: "Audio/UI_\uD2B9\uC804\uC120\uD0DD\uC2DC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9f673338ad73a649b4a55c52cebf06a
+    m_Address: Data/EnemyStats
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf68eb09282e2514a81e7e6c138bbd0f
+    m_Address: "Audio/\uC801_\uADFC\uC811_\uACF5\uACA9\uD718\uB450\uB984"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0b9f6ebd5f7fff4ab34ab20ab9e7e94
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uD53C\uACA9\uC2DC_02"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d311f7cab9b4b5640b051d62baecd12a
+    m_Address: "Audio/\uC801_\uD53C\uACA9_E\uC2A4\uD0AC\uD22C\uC0AC\uCCB4"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d64f133371a4551449833254394fb80d
+    m_Address: Data/SpiritTreeStats
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e06886d20ab4e6e4b97450e7a1d21844
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uAD81_\uCE7C\uC815\uB9AC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e61df9148ed532541aa5d77d6ffb7607
+    m_Address: Enemy/Ranged
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea6314237bd20464eb5e6864878de98e
+    m_Address: Audio/BGM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec834e3a0a9a041e58e015c0bf39ed52
+    m_Address: "Audio/\uD0F1\uCEE4_\uC73C\uB974\uB801\uACF5\uACA9"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edb82875b1505a74bb5274b39655887e
+    m_Address: Audio/Hit03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2a5768ecad81d0409c47a86855fb3f4
+    m_Address: Audio/WOMAN14_A003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2c90fa76595bb345bf5ccc94f6071f1
+    m_Address: "Audio/UI_\uC7AC\uC2DC\uC791\uC2DC"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f456d6aab264e824a9b5e4bb93fda05a
+    m_Address: "Audio/\uD50C\uB808\uC774\uC5B4_\uD53C\uACA9\uC2DC_01"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4fd8d790aab0ed40b26bedff4394333
+    m_Address: Audio/PlayerShout02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7bfd5b0783caca48a9b3739145d001d
+    m_Address: Data/SkillCoefficient
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb6bfe5d0cd52149be1ef8d67ab0e7a
+    m_Address: "Audio/\uC6D0\uAC70\uB9AC\uBAAC_\uD56D\uC0C1_\uB0A0\uAC1C\uC18C\uB9AC_01"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 38c3c374495433140b7fb84280a4e432, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c9d9aa1791af35b43af6e93ab1e75488, type: 2}
+    - {fileID: 11400000, guid: 64e0aa0f7fb3d4e4ba8a4ae594e62111, type: 2}

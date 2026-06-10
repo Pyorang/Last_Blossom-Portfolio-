@@ -1,0 +1,2758 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2651669859303687485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304069785}
+  m_Layer: 0
+  m_Name: Arthromahre_ Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304069785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303687485}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000014374044, y: 0.000001796549, z: 0.27615505, w: 0.9611131}
+  m_LocalPosition: {x: -0.3159522, y: -0.050300293, z: 0.0000009971612}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303959771}
+  - {fileID: 2651669859304056113}
+  - {fileID: 2651669859304061613}
+  - {fileID: 2651669859303971075}
+  m_Father: {fileID: 2651669859304075825}
+  m_LocalEulerAnglesHint: {x: 3.4313684, y: 2.6129768, z: 34.1484}
+--- !u!1 &2651669859303688351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303992831}
+  m_Layer: 0
+  m_Name: Arthromahre_ R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303992831
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303688351}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.06446395, y: -0.18184458, z: -0.63824135, w: 0.74526834}
+  m_LocalPosition: {x: -0.19812192, y: 0.017733458, z: -0.6139053}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304072943}
+  m_Father: {fileID: 2651669859304010737}
+  m_LocalEulerAnglesHint: {x: -32.43421, y: -18.495548, z: -86.2493}
+--- !u!1 &2651669859303688479
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304012051}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftUpper_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304012051
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303688479}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0033063733, y: -0.010795136, z: 0.5612684, w: 0.82755685}
+  m_LocalPosition: {x: -0.20657547, y: 0, z: -0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304009611}
+  m_LocalEulerAnglesHint: {x: -2.2333753, y: 3.757669, z: 66.30153}
+--- !u!1 &2651669859303689803
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304078451}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightMiddle_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304078451
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303689803}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0046436475, y: -0.01996894, z: -0.28624508, w: 0.95793706}
+  m_LocalPosition: {x: -0.15140754, y: -0.00000015258789, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304012975}
+  m_Father: {fileID: 2651669859303994777}
+  m_LocalEulerAnglesHint: {x: -1.0516208, y: -1.2003984, z: -42.854485}
+--- !u!1 &2651669859303690717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304032547}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightUpper_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304032547
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303690717}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0021905005, y: -0.008935794, z: -0.3098693, w: 0.9507347}
+  m_LocalPosition: {x: -0.22269538, y: -0.0000070190426, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303962029}
+  m_Father: {fileID: 2651669859303982273}
+  m_LocalEulerAnglesHint: {x: -1.5689583, y: -1.063429, z: -50.90626}
+--- !u!1 &2651669859303691967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303971075}
+  m_Layer: 0
+  m_Name: Arthromahre_WeakPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303971075
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303691967}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.4770827, y: 0.8788584, z: 0.0000003028201, w: 0.0000006494625}
+  m_LocalPosition: {x: -0.09789764, y: 0.17894699, z: 0.00000030517577}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304069785}
+  m_LocalEulerAnglesHint: {x: -0.00006873161, y: 179.99994, z: -56.990078}
+--- !u!1 &2651669859303693261
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304035495}
+  - component: {fileID: 2651669859313174113}
+  - component: {fileID: 3667102275143779905}
+  - component: {fileID: 4878381361121139596}
+  m_Layer: 0
+  m_Name: Arthromahre
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304035495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303693261}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304057199}
+  - {fileID: 2651669859303959347}
+  m_Father: {fileID: 6101709543144017195}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &2651669859313174113
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303693261}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 9a74d1cad5de1cc4b87b9201920b9abb, type: 3}
+  m_Controller: {fileID: 9100000, guid: 76e36f088181fd04a946920ad2eb49ff, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &3667102275143779905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303693261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a059d016d6828374e82ced34f0082f46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAnimator
+  _movement: {fileID: 8996037580273756329}
+  _attack: {fileID: 7896053640162029449}
+  _controller: {fileID: 6342917769491768347}
+--- !u!114 &4878381361121139596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303693261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b0f39f08399f0e49971953eab149701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySFX
+  _usePeriodicSound: 0
+  _periodicSoundBase: "\uADFC\uC811\uBAAC_\uD56D\uC0C1_\uAC00\uB054\uB098\uAC8C\uD558\uAE30"
+  _periodicMinInterval: 2
+  _periodicMaxInterval: 5
+  _periodicVariants: 2
+  _useLoopSound: 0
+  _loopSoundBase: 
+  _loopVariants: 2
+--- !u!1 &2651669859303694047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303961153}
+  m_Layer: 0
+  m_Name: Arthromahre_ Tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303961153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303694047}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000008207284, y: -0.00007924892, z: 0.17619438, w: 0.9843554}
+  m_LocalPosition: {x: -0.3251895, y: -0.00013587951, z: 0.0000000060349703}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303963215}
+  m_LocalEulerAnglesHint: {x: 0.49118662, y: -4.83078, z: 6.313404}
+--- !u!1 &2651669859303695783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303950451}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightA_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303950451
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303695783}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000053725656, y: 0.003614114, z: -0.13301224, w: 0.9911078}
+  m_LocalPosition: {x: -0.29713807, y: -0.00000015258789, z: 0.00000061035155}
+  m_LocalScale: {x: 0.99999964, y: 0.9999998, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303948437}
+  m_LocalEulerAnglesHint: {x: 5.4133945, y: 17.406555, z: -29.715555}
+--- !u!1 &2651669859303695913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304060431}
+  m_Layer: 0
+  m_Name: Arthromahre_ R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304060431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303695913}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.6018596, y: -0.37576023, z: -0.5257368, w: 0.46922284}
+  m_LocalPosition: {x: -0.80513996, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304010753}
+  m_Father: {fileID: 2651669859304072943}
+  m_LocalEulerAnglesHint: {x: 58.106342, y: -78.93795, z: -88.36808}
+--- !u!1 &2651669859303696173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304057215}
+  m_Layer: 0
+  m_Name: Arthromahre_ Ponytail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304057215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303696173}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000021929309, y: -0.0000007641084, z: -0.23041847, w: 0.97309166}
+  m_LocalPosition: {x: 0.1481102, y: 0.28571686, z: 0.0000024109893}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -0.0002694102, y: -0.000026740674, z: -26.643417}
+--- !u!1 &2651669859303705737
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303963791}
+  m_Layer: 0
+  m_Name: Arthromahre_ L Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303963791
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303705737}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.03238287, y: 0.117008656, z: -0.00079762796, w: 0.9926025}
+  m_LocalPosition: {x: -0.2693551, y: -0.00074020383, z: -0.5461807}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6033758412980333330}
+  m_Father: {fileID: 2651669859304033379}
+  m_LocalEulerAnglesHint: {x: 3.3588524, y: -17.110943, z: -1.5824713}
+--- !u!1 &2651669859303706465
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303987425}
+  m_Layer: 0
+  m_Name: Arthromahre_ Footsteps
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303987425
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303706465}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071063, w: 0.70710725}
+  m_LocalPosition: {x: -0, y: 0, z: 0.033384398}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304065793}
+  m_LocalEulerAnglesHint: {x: -13.790533, y: -16.58115, z: -85.15124}
+--- !u!1 &2651669859303706947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304053097}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightB_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304053097
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303706947}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.03389891, y: -0.030076949, z: 0.7347758, w: 0.67679447}
+  m_LocalPosition: {x: -0.40695387, y: -0.44664335, z: -0.23500185}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304056269}
+  m_Father: {fileID: 2651669859303959771}
+  m_LocalEulerAnglesHint: {x: -1.4759932, y: -0.007985165, z: 95.28343}
+--- !u!1 &2651669859303707173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304010737}
+  m_Layer: 0
+  m_Name: Arthromahre_ Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304010737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303707173}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000007716063, y: 0.0000016943337, z: -0.39417228, w: 0.91903657}
+  m_LocalPosition: {x: -0.57457, y: -0.00032699585, z: -0.0000000013550743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304076575}
+  - {fileID: 2651669859303948979}
+  - {fileID: 2651669859303992831}
+  - {fileID: 2651669859304053669}
+  - {fileID: 2651669859303961797}
+  m_Father: {fileID: 2651669859303959771}
+  m_LocalEulerAnglesHint: {x: 3.240837, y: -2.8459375, z: -44.500824}
+--- !u!1 &2651669859303708025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304043657}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftLower_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304043657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303708025}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0015905667, y: -0.0062955604, z: 0.52566427, w: 0.85066736}
+  m_LocalPosition: {x: -0.17681366, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304074905}
+  m_LocalEulerAnglesHint: {x: -0.40742415, y: 3.3920364, z: 46.297527}
+--- !u!1 &2651669859303708409
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304074905}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftLower_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304074905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303708409}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.001647506, y: -0.0062062526, z: 0.3678415, w: 0.9298663}
+  m_LocalPosition: {x: -0.15271896, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304043657}
+  m_Father: {fileID: 2651669859304075741}
+  m_LocalEulerAnglesHint: {x: -0.73009545, y: 2.2108688, z: 39.31615}
+--- !u!1 &2651669859303709163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304065295}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftMiddle_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304065295
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303709163}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0018739131, y: -0.019999176, z: 0.49156877, w: 0.8706071}
+  m_LocalPosition: {x: -0.14596267, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304078981}
+  m_LocalEulerAnglesHint: {x: -0.49277017, y: 4.374563, z: 50.90334}
+--- !u!1 &2651669859303711329
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304053857}
+  m_Layer: 0
+  m_Name: Arthromahre_ Tail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304053857
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303711329}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000021517947, y: -0.0000842561, z: 0.9999906, w: -0.0043462655}
+  m_LocalPosition: {x: 0.09430443, y: -0.34670195, z: 0.00000013849144}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304013047}
+  m_Father: {fileID: 2651669859304075825}
+  m_LocalEulerAnglesHint: {x: -0.012097798, y: 1.2388139, z: -177.54419}
+--- !u!1 &2651669859303718393
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303962323}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightLower_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303962323
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303718393}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0016165532, y: -0.006171206, z: -0.36783242, w: 0.9298702}
+  m_LocalPosition: {x: -0.1527185, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303994719}
+  m_Father: {fileID: 2651669859303973951}
+  m_LocalEulerAnglesHint: {x: -0.08402502, y: -0.9278499, z: -40.724876}
+--- !u!1 &2651669859303718403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304033097}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightB_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304033097
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303718403}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00016424179, y: 0.0020516473, z: -0.1903808, w: 0.98170817}
+  m_LocalPosition: {x: -0.38332182, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 0.9999998, y: 0.99999994, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304056269}
+  m_LocalEulerAnglesHint: {x: 5.7031946, y: 15.620437, z: -31.802885}
+--- !u!1 &2651669859303720971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303974657}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftA_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303974657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303720971}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00021168208, y: 0.002835344, z: 0.10954855, w: 0.99397737}
+  m_LocalPosition: {x: -0.281116, y: -0.00000061035155, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303951047}
+  m_Father: {fileID: 2651669859304053669}
+  m_LocalEulerAnglesHint: {x: 6.36993, y: -23.133314, z: 20.428175}
+--- !u!1 &2651669859303721843
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303963215}
+  m_Layer: 0
+  m_Name: Arthromahre_ Tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303963215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303721843}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000033072585, y: -0.000057890098, z: 0.32090533, w: 0.94711125}
+  m_LocalPosition: {x: -0.30192345, y: -0.00020568847, z: 0.000000025108456}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303961153}
+  m_Father: {fileID: 2651669859304013047}
+  m_LocalEulerAnglesHint: {x: 1.0318279, y: -1.6127148, z: 32.841694}
+--- !u!1 &2651669859303721999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303978413}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightC_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303978413
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303721999}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00019818917, y: 0.00067881966, z: -0.22977018, w: 0.97324467}
+  m_LocalPosition: {x: -0.27969953, y: -0.00000045776366, z: -0.00000030517577}
+  m_LocalScale: {x: 0.99999964, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304077527}
+  m_LocalEulerAnglesHint: {x: 5.0040383, y: 12.21613, z: -28.094816}
+--- !u!1 &2651669859303722527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304069465}
+  m_Layer: 0
+  m_Name: Arthromahre_ Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304069465
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303722527}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00004979773, y: -0.000020710351, z: 0.3609541, w: 0.93258363}
+  m_LocalPosition: {x: -0.21062697, y: -0.00000030517577, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304057215}
+  - {fileID: 2651669859304034699}
+  - {fileID: 2651669859303987817}
+  - {fileID: 2651669859304075741}
+  - {fileID: 2651669859304007359}
+  - {fileID: 2651669859304052303}
+  - {fileID: 2651669859303973951}
+  - {fileID: 2651669859303994777}
+  - {fileID: 2651669859303982273}
+  m_Father: {fileID: 2651669859303948979}
+  m_LocalEulerAnglesHint: {x: -1.5619818, y: -0.9450704, z: 31.86072}
+--- !u!1 &2651669859303723525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303959771}
+  m_Layer: 0
+  m_Name: Arthromahre_ Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303959771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303723525}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000199462, y: 0.00000084475647, z: -0.19756256, w: 0.9802903}
+  m_LocalPosition: {x: -0.60367537, y: -0.00042160033, z: -0.0000000012945384}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304010737}
+  - {fileID: 2651669859304052275}
+  - {fileID: 2651669859304053097}
+  m_Father: {fileID: 2651669859304069785}
+  m_LocalEulerAnglesHint: {x: 4.109756, y: -1.306553, z: -20.827394}
+--- !u!1 &2651669859303723649
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304053669}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftA_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304053669
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303723649}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.47911245, y: 0.87608516, z: -0.025142489, w: 0.0478945}
+  m_LocalPosition: {x: 0.10581627, y: -0.5091772, z: 0.29769957}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303974657}
+  m_Father: {fileID: 2651669859304010737}
+  m_LocalEulerAnglesHint: {x: 17.993654, y: 168.30476, z: 57.895958}
+--- !u!1 &2651669859303723701
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304006871}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftC_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304006871
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303723701}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00020695913, y: 0.000687773, z: 0.22977018, w: 0.97324467}
+  m_LocalPosition: {x: -0.27969986, y: 0.00000045776366, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303973641}
+  m_LocalEulerAnglesHint: {x: 5.498491, y: -15.100765, z: 23.137476}
+--- !u!1 &2651669859303729449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304072943}
+  m_Layer: 0
+  m_Name: Arthromahre_ R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304072943
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303729449}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000008096573, y: 0.000000013052505, z: 0.69656557, w: 0.71749324}
+  m_LocalPosition: {x: -1.149299, y: -0.000000076293944, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304060431}
+  m_Father: {fileID: 2651669859303992831}
+  m_LocalEulerAnglesHint: {x: 0.0000006707689, y: -0.000004932917, z: 38.707222}
+--- !u!1 &2651669859303731063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303951047}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftA_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303951047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303731063}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000084219864, y: 0.003608819, z: 0.13301373, w: 0.99110764}
+  m_LocalPosition: {x: -0.29713744, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303974657}
+  m_LocalEulerAnglesHint: {x: 7.033814, y: -22.910597, z: 25.252766}
+--- !u!1 &2651669859303733345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303968227}
+  m_Layer: 0
+  m_Name: Arthromahre_ L Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303968227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303733345}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.024109608, y: 0.0049971147, z: -0.3283249, w: 0.9442439}
+  m_LocalPosition: {x: -0.85482025, y: 0, z: 0.000000076293944}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303960721}
+  m_LocalEulerAnglesHint: {x: 24.662481, y: 1.9906558, z: -14.472349}
+--- !u!1 &2651669859303734865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304052303}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftUpper_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304052303
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303734865}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.98213595, y: -0.11307173, z: -0.10065285, w: -0.11177117}
+  m_LocalPosition: {x: -0.09274688, y: 0.42405242, z: 0.20183088}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304009611}
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -12.714514, y: -173.52727, z: -152.52193}
+--- !u!1 &2651669859303735673
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303987817}
+  m_Layer: 0
+  m_Name: Arthromahre_EyeRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303987817
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303735673}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.1533228, y: -0.42743298, z: 0.017035041, w: 0.89078784}
+  m_LocalPosition: {x: -0.17246643, y: 0.25835267, z: -0.14900404}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -18.232166, y: -55.045784, z: -2.8728266}
+--- !u!1 &2651669859303736747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304056269}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightB_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304056269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303736747}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00013601473, y: 0.0014099234, z: -0.18144721, w: 0.9833997}
+  m_LocalPosition: {x: -0.33164093, y: -0.00000030517577, z: -0.0000003147125}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304033097}
+  m_Father: {fileID: 2651669859304053097}
+  m_LocalEulerAnglesHint: {x: 4.5424414, y: 11.9634495, z: -25.034624}
+--- !u!1 &2651669859303736991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304065793}
+  m_Layer: 0
+  m_Name: Arthromahre_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304065793
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303736991}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071063, w: 0.70710725}
+  m_LocalPosition: {x: 0, y: 0.91763324, z: 1.4922308}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303987425}
+  - {fileID: 2651669859304075825}
+  m_Father: {fileID: 2651669859304057199}
+  m_LocalEulerAnglesHint: {x: -15.369391, y: 15.135469, z: 85.11629}
+--- !u!1 &2651669859303737251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303984715}
+  m_Layer: 0
+  m_Name: Arthromahre_ L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303984715
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303737251}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000008096557, y: -0.000000013052514, z: 0.69656634, w: 0.7174924}
+  m_LocalPosition: {x: -1.149299, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304033379}
+  m_Father: {fileID: 2651669859304076575}
+  m_LocalEulerAnglesHint: {x: -0.000004090833, y: 0.0000029951984, z: 113.44614}
+--- !u!1 &2651669859303738791
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303960721}
+  m_Layer: 0
+  m_Name: Arthromahre_ L Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303960721
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303738791}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000003000303, y: -0.000000004384253, z: 0.6317038, w: 0.77520984}
+  m_LocalPosition: {x: -0.6837204, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303968227}
+  m_Father: {fileID: 2651669859303967125}
+  m_LocalEulerAnglesHint: {x: -0.0000013713941, y: -0.0000031276427, z: 66.32374}
+--- !u!1 &2651669859303738915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303982273}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightUpper_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303982273
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303738915}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.11174463, y: -0.10063627, z: -0.11308023, w: 0.9821397}
+  m_LocalPosition: {x: -0.09274566, y: 0.42405427, z: -0.2020035}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304032547}
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -14.776183, y: -11.082241, z: -26.267094}
+--- !u!1 &2651669859303744089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304010753}
+  m_Layer: 0
+  m_Name: Arthromahre_ R Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304010753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303744089}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.032382876, y: -0.11700865, z: -0.0007976225, w: 0.9926025}
+  m_LocalPosition: {x: -0.26935494, y: -0.00074028014, z: 0.5461807}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3934979568950715165}
+  m_Father: {fileID: 2651669859304060431}
+  m_LocalEulerAnglesHint: {x: -3.6966121, y: -13.457185, z: 0.34418848}
+--- !u!1 &2651669859303748741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304076575}
+  m_Layer: 0
+  m_Name: Arthromahre_ L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304076575
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303748741}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.06446796, y: 0.18184471, z: -0.6382397, w: 0.7452694}
+  m_LocalPosition: {x: -0.1981219, y: 0.017730102, z: 0.6139055}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303984715}
+  m_Father: {fileID: 2651669859304010737}
+  m_LocalEulerAnglesHint: {x: 13.312773, y: 45.87556, z: -30.848434}
+--- !u!1 &2651669859303750585
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304075741}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftLower_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304075741
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303750585}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.63914484, y: 0.7661243, z: 0.019447828, w: 0.06457051}
+  m_LocalPosition: {x: 0.14214249, y: 0.4332672, z: 0.1671327}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304074905}
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -4.538668, y: 175.90984, z: -70.58051}
+--- !u!1 &2651669859303750811
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304078981}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftMiddle_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304078981
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303750811}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.004656293, y: -0.02001391, z: 0.28623664, w: 0.9579386}
+  m_LocalPosition: {x: -0.15140761, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304065295}
+  m_Father: {fileID: 2651669859304007359}
+  m_LocalEulerAnglesHint: {x: -1.639662, y: 3.6813903, z: 41.852615}
+--- !u!1 &2651669859303751481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303962029}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightUpper_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303962029
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303751481}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0033120175, y: -0.010796426, z: -0.56126, w: 0.8275626}
+  m_LocalPosition: {x: -0.20657554, y: 0.00000045776366, z: -0.00000019073485}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304032547}
+  m_LocalEulerAnglesHint: {x: -1.6003947, y: -1.4640383, z: -67.108086}
+--- !u!1 &2651669859303805089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304013047}
+  m_Layer: 0
+  m_Name: Arthromahre_ Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304013047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303805089}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00007511416, y: -0.000034750068, z: 0.2974689, w: 0.9547315}
+  m_LocalPosition: {x: -0.22704162, y: -0.0001977539, z: 0.000000038817525}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303963215}
+  m_Father: {fileID: 2651669859304053857}
+  m_LocalEulerAnglesHint: {x: 0.64221716, y: -0.9625138, z: 34.340996}
+--- !u!1 &2651669859303805323
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304007359}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftMiddle_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304007359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303805323}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.8791346, y: -0.447284, z: -0.12156095, w: -0.11082616}
+  m_LocalPosition: {x: 0.0005265808, y: 0.4816661, z: 0.19405591}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304078981}
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -14.626782, y: -175.17673, z: -110.31141}
+--- !u!1 &2651669859303808895
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304075825}
+  m_Layer: 0
+  m_Name: Arthromahre_ Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304075825
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303808895}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.65944046, y: 0.2552186, z: 0.25522083, w: 0.65944225}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303967125}
+  - {fileID: 2651669859304011615}
+  - {fileID: 2651669859304069785}
+  - {fileID: 2651669859304053857}
+  m_Father: {fileID: 2651669859304065793}
+  m_LocalEulerAnglesHint: {x: -89.98021, y: 42.315056, z: 0}
+--- !u!1 &2651669859303883185
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303948437}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightA_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303948437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303883185}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00024897247, y: 0.0028379501, z: -0.109547846, w: 0.9939774}
+  m_LocalPosition: {x: -0.2811157, y: 0.00000045776366, z: -0.0000002479553}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303950451}
+  m_Father: {fileID: 2651669859303961797}
+  m_LocalEulerAnglesHint: {x: 5.23629, y: 16.93201, z: -24.556564}
+--- !u!1 &2651669859303884135
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304061613}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightC_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304061613
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303884135}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.026948242, y: -0.023023345, z: 0.7436424, w: 0.6676374}
+  m_LocalPosition: {x: -0.6740544, y: -0.26448563, z: -0.18900101}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304077527}
+  m_Father: {fileID: 2651669859304069785}
+  m_LocalEulerAnglesHint: {x: 0.5541988, y: 0.05947007, z: 101.08227}
+--- !u!1 &2651669859303885801
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303967125}
+  m_Layer: 0
+  m_Name: Arthromahre_ L Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303967125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303885801}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.051074333, y: 0.8142201, z: -0.33673736, w: 0.47015437}
+  m_LocalPosition: {x: 0.0000003814697, y: 0.00000045776366, z: 0.30582178}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303960721}
+  m_Father: {fileID: 2651669859304075825}
+  m_LocalEulerAnglesHint: {x: 35.31483, y: 110.2527, z: -42.476696}
+--- !u!1 &2651669859303886301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304011615}
+  m_Layer: 0
+  m_Name: Arthromahre_ R Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304011615
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303886301}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.051075943, y: 0.8142184, z: 0.33673605, w: -0.47015795}
+  m_LocalPosition: {x: -0.00000045776366, y: -0.00000045776366, z: -0.3058218}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303973397}
+  m_Father: {fileID: 2651669859304075825}
+  m_LocalEulerAnglesHint: {x: -38.36445, y: -111.42326, z: -9.155206}
+--- !u!1 &2651669859303887305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303994719}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightLower_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303994719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303887305}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0028122365, y: -0.00839824, z: -0.52540505, w: 0.8508061}
+  m_LocalPosition: {x: -0.17681381, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303962323}
+  m_LocalEulerAnglesHint: {x: 0.23285186, y: -2.2154322, z: -47.579906}
+--- !u!1 &2651669859303887935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303948979}
+  m_Layer: 0
+  m_Name: Arthromahre_ Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303948979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303887935}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000079853794, y: 0.0000011492143, z: -0.23909788, w: 0.9709955}
+  m_LocalPosition: {x: -0.5200634, y: 0.04171814, z: 0.0000003785122}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304069465}
+  m_Father: {fileID: 2651669859304010737}
+  m_LocalEulerAnglesHint: {x: 0.000119008924, y: 0.00010564326, z: -27.666603}
+--- !u!1 &2651669859303889497
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304056113}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftC_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304056113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303889497}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.6676412, y: 0.7436391, z: -0.023109991, w: 0.026869439}
+  m_LocalPosition: {x: -0.6740544, y: -0.26448622, z: 0.18873733}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303973641}
+  m_Father: {fileID: 2651669859304069785}
+  m_LocalEulerAnglesHint: {x: 7.8500366, y: 178.8904, z: 77.12076}
+--- !u!1 &2651669859303891551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303973951}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightLower_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303973951
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303891551}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0645401, y: -0.019413156, z: -0.76612353, w: 0.63914984}
+  m_LocalPosition: {x: 0.1421434, y: 0.43326843, z: -0.16700274}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303962323}
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -5.6386647, y: 3.9770331, z: -111.19849}
+--- !u!1 &2651669859303894021
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304057199}
+  m_Layer: 0
+  m_Name: root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304057199
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303894021}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304065793}
+  m_Father: {fileID: 2651669859304035495}
+  m_LocalEulerAnglesHint: {x: -90, y: 0.000002295494, z: 0}
+--- !u!1 &2651669859303895691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304009611}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleLeftUpper_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304009611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303895691}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0021905503, y: -0.0089608, z: 0.3098562, w: 0.95073867}
+  m_LocalPosition: {x: -0.2226953, y: 0.0000070190426, z: -0.000000114440915}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304012051}
+  m_Father: {fileID: 2651669859304052303}
+  m_LocalEulerAnglesHint: {x: -2.6082296, y: 3.5988333, z: 50.127575}
+--- !u!1 &2651669859303896299
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304033379}
+  m_Layer: 0
+  m_Name: Arthromahre_ L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304033379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303896299}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.60185885, y: -0.37576187, z: 0.52573854, w: -0.46922055}
+  m_LocalPosition: {x: -0.8051401, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303963791}
+  m_Father: {fileID: 2651669859303984715}
+  m_LocalEulerAnglesHint: {x: -12.11201, y: 97.01704, z: -119.353165}
+--- !u!1 &2651669859303899051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304012975}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightMiddle_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304012975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303899051}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0011458545, y: -0.018729176, z: -0.49197358, w: 0.8704079}
+  m_LocalPosition: {x: -0.14596298, y: 0.00000061035155, z: -0.00000019073485}
+  m_LocalScale: {x: 1, y: 1.0000004, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304078451}
+  m_LocalEulerAnglesHint: {x: -0.6674269, y: -1.5485129, z: -51.21714}
+--- !u!1 &2651669859303899991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303959347}
+  - component: {fileID: 2651669859309169237}
+  m_Layer: 6
+  m_Name: SK_Arthromahre
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303959347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303899991}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304035495}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2651669859309169237
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303899991}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 0db83d8891101344488c427e8ad0ea2d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 9a74d1cad5de1cc4b87b9201920b9abb, type: 3}
+  m_Bones:
+  - {fileID: 2651669859304010737}
+  - {fileID: 2651669859303948979}
+  - {fileID: 2651669859303959771}
+  - {fileID: 2651669859303992831}
+  - {fileID: 2651669859304069465}
+  - {fileID: 2651669859304053669}
+  - {fileID: 2651669859303961797}
+  - {fileID: 2651669859304060431}
+  - {fileID: 2651669859303990559}
+  - {fileID: 2651669859303968227}
+  - {fileID: 2651669859304010753}
+  - {fileID: 2651669859303963791}
+  - {fileID: 2651669859304069785}
+  - {fileID: 2651669859304072943}
+  - {fileID: 2651669859303984715}
+  - {fileID: 2651669859303973397}
+  - {fileID: 2651669859303960721}
+  - {fileID: 2651669859303971075}
+  - {fileID: 2651669859304056269}
+  - {fileID: 2651669859304053097}
+  - {fileID: 2651669859303948437}
+  - {fileID: 2651669859304057215}
+  - {fileID: 2651669859304075825}
+  - {fileID: 2651669859303950451}
+  - {fileID: 2651669859304006871}
+  - {fileID: 2651669859303973641}
+  - {fileID: 2651669859304056113}
+  - {fileID: 2651669859304070697}
+  - {fileID: 2651669859303972507}
+  - {fileID: 2651669859304052275}
+  - {fileID: 2651669859303951047}
+  - {fileID: 2651669859303974657}
+  - {fileID: 2651669859303962029}
+  - {fileID: 2651669859303967125}
+  - {fileID: 2651669859304011615}
+  - {fileID: 2651669859304034699}
+  - {fileID: 2651669859304076575}
+  - {fileID: 2651669859304033379}
+  - {fileID: 2651669859304033097}
+  - {fileID: 2651669859304061613}
+  - {fileID: 2651669859303978413}
+  - {fileID: 2651669859304077527}
+  - {fileID: 2651669859304053857}
+  - {fileID: 2651669859304013047}
+  - {fileID: 2651669859304007359}
+  - {fileID: 2651669859304078981}
+  - {fileID: 2651669859303987817}
+  - {fileID: 2651669859304052303}
+  - {fileID: 2651669859304065295}
+  - {fileID: 2651669859304009611}
+  - {fileID: 2651669859304012051}
+  - {fileID: 2651669859303982273}
+  - {fileID: 2651669859304074905}
+  - {fileID: 2651669859304043657}
+  - {fileID: 2651669859304075741}
+  - {fileID: 2651669859304032547}
+  - {fileID: 2651669859303963215}
+  - {fileID: 2651669859303994719}
+  - {fileID: 2651669859303962323}
+  - {fileID: 2651669859303973951}
+  - {fileID: 2651669859303994777}
+  - {fileID: 2651669859303961153}
+  - {fileID: 2651669859304012975}
+  - {fileID: 2651669859304078451}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 2651669859304075825}
+  m_AABB:
+    m_Center: {x: -0.5757408, y: 0.66697985, z: -0.0000052452087}
+    m_Extent: {x: 2.7684247, y: 2.6568837, z: 2.26012}
+  m_DirtyAABB: 0
+--- !u!1 &2651669859303901027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303973397}
+  m_Layer: 0
+  m_Name: Arthromahre_ R Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303973397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303901027}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000034225083, y: -0.000000007594431, z: 0.6317013, w: 0.77521193}
+  m_LocalPosition: {x: -0.6837204, y: 0, z: 0.000000076293944}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303990559}
+  m_Father: {fileID: 2651669859304011615}
+  m_LocalEulerAnglesHint: {x: -0.00000011819406, y: 0.0000009472013, z: 70.54768}
+--- !u!1 &2651669859303902543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303961797}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightA_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303961797
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303902543}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.047856953, y: -0.025215333, z: 0.8760834, w: 0.47911572}
+  m_LocalPosition: {x: 0.10581852, y: -0.5091757, z: -0.2980023}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303948437}
+  m_Father: {fileID: 2651669859304010737}
+  m_LocalEulerAnglesHint: {x: -4.0360646, y: -1.8988736, z: 117.922195}
+--- !u!1 &2651669859303903967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304077527}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterRightC_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304077527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303903967}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000023949711, y: 0.0005189881, z: -0.21094866, w: 0.97749704}
+  m_LocalPosition: {x: -0.28180167, y: -0.00000015258789, z: 0.0000003147125}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303978413}
+  m_Father: {fileID: 2651669859304061613}
+  m_LocalEulerAnglesHint: {x: 3.1117704, y: 8.644286, z: -19.068983}
+--- !u!1 &2651669859303904001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304052275}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftB_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304052275
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303904001}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.6768019, y: 0.7347694, z: -0.030203609, w: 0.033778097}
+  m_LocalPosition: {x: -0.4069551, y: -0.44664413, z: 0.23520444}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859303972507}
+  m_Father: {fileID: 2651669859303959771}
+  m_LocalEulerAnglesHint: {x: 13.824542, y: 178.62508, z: 82.5718}
+--- !u!1 &2651669859303907031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304070697}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftB_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304070697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303907031}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00023976387, y: 0.0020787732, z: 0.19037984, w: 0.9817083}
+  m_LocalPosition: {x: -0.38332152, y: 0.000000076293944, z: 0.000000028610229}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303972507}
+  m_LocalEulerAnglesHint: {x: 7.011704, y: -20.296953, z: 28.024204}
+--- !u!1 &2651669859303908459
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859304034699}
+  m_Layer: 0
+  m_Name: Arthromahre_EyeLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859304034699
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303908459}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.8907841, y: 0.017047703, z: -0.42743587, w: -0.15333521}
+  m_LocalPosition: {x: -0.17246734, y: 0.2583516, z: 0.14868805}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -16.879076, y: -128.98235, z: -173.83513}
+--- !u!1 &2651669859303910291
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303972507}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftB_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303972507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303910291}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000269042, y: 0.0014292606, z: 0.18144402, w: 0.9834002}
+  m_LocalPosition: {x: -0.33164123, y: 0, z: 0.000000047683713}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304070697}
+  m_Father: {fileID: 2651669859304052275}
+  m_LocalEulerAnglesHint: {x: 5.470109, y: -15.7464285, z: 21.758976}
+--- !u!1 &2651669859303911145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303990559}
+  m_Layer: 0
+  m_Name: Arthromahre_ R Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303990559
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303911145}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.024110181, y: -0.0049971445, z: -0.3283219, w: 0.9442449}
+  m_LocalPosition: {x: -0.85482055, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303973397}
+  m_LocalEulerAnglesHint: {x: -12.808238, y: 1.9121277, z: -25.470715}
+--- !u!1 &2651669859303911413
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303994777}
+  m_Layer: 0
+  m_Name: Arthromahre_MandibuleRightMiddle_1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303994777
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303911413}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.11079481, y: -0.121527806, z: -0.44729328, w: 0.87913835}
+  m_LocalPosition: {x: 0.0005278015, y: 0.481667, z: -0.19400316}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304078451}
+  m_Father: {fileID: 2651669859304069465}
+  m_LocalEulerAnglesHint: {x: -18.338852, y: -6.8285003, z: -70.471375}
+--- !u!1 &2651669859303912357
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2651669859303973641}
+  m_Layer: 0
+  m_Name: Arthromahre_SpitterLeftC_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2651669859303973641
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651669859303912357}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00021546416, y: 0.00050790276, z: 0.21094967, w: 0.9774968}
+  m_LocalPosition: {x: -0.28180182, y: -0.00000015258789, z: 0.000000047683713}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304006871}
+  m_Father: {fileID: 2651669859304056113}
+  m_LocalEulerAnglesHint: {x: 3.1850357, y: -10.043977, z: 14.881789}
+--- !u!1 &4769208270752835480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6033758412980333330}
+  - component: {fileID: 3494063483078261884}
+  - component: {fileID: 8387967877158280198}
+  m_Layer: 0
+  m_Name: LeftHitBox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6033758412980333330
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4769208270752835480}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859303963791}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3494063483078261884
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4769208270752835480}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.6, y: 0.275, z: 0.6}
+  m_Center: {x: -0.7, y: -0.007, z: -0.06}
+--- !u!114 &8387967877158280198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4769208270752835480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2c49fd1b49a5748a4ebb3c856a75ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHitbox
+  _targetLayerMask:
+    serializedVersion: 2
+    m_Bits: 264
+--- !u!1 &7629306661112414226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6101709543144017195}
+  - component: {fileID: 4419884719869047316}
+  - component: {fileID: 750057471892780472}
+  - component: {fileID: 8987326509952204873}
+  - component: {fileID: 5037951987453705619}
+  - component: {fileID: 6342917769491768347}
+  - component: {fileID: 8996037580273756329}
+  - component: {fileID: 7896053640162029449}
+  - component: {fileID: 6309098771248379448}
+  m_Layer: 6
+  m_Name: Enemy_Melee
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6101709543144017195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2651669859304035495}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &4419884719869047316
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
+--- !u!136 &750057471892780472
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.8
+  m_Height: 1.7
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.8, z: 0}
+--- !u!195 &8987326509952204873
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  m_Enabled: 1
+  m_AgentTypeID: -334000983
+  m_Radius: 0.75
+  m_Speed: 2
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 1.7
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &5037951987453705619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15d76e2ae928d6145a1d8bb4e155f856, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthComponent
+  _isPlayer: 0
+  _isInvincible: 0
+--- !u!114 &6342917769491768347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b4fc1e2ad8f1a4fbdfcae31983aad2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyController
+  _enemyId: Melee
+  _animator: {fileID: 3667102275143779905}
+  _dissolveEffect: {fileID: 6309098771248379448}
+--- !u!114 &8996037580273756329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12b8b29f032693b49a7cf5f39fa980e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyMovement
+  _moveSpeed: 2
+  _rotationSpeed: 360
+  _playerStoppingDistance: 2
+  _spiritTreeStoppingDistance: 4.5
+  _aggroRange: 5
+  _aggroReleaseRange: 15
+--- !u!114 &7896053640162029449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f37fd63a9381264e957cb1471cde2ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyAttack
+  _attackDamage: 30
+  _attackCooldown: 5
+  _comboTriggers:
+  - ClawsAttackLeft
+  - ClawsAttackRight
+  - DoubleClawsAttack
+  _comboResetTime: 5
+  _movement: {fileID: 8996037580273756329}
+  _animator: {fileID: 3667102275143779905}
+  _leftHandHitboxes:
+  - {fileID: 8387967877158280198}
+  _rightHandHitboxes:
+  - {fileID: 1171453893333218864}
+--- !u!114 &6309098771248379448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7629306661112414226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b70920b9499a0444800cbb96fd38bdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDissolveEffect
+  _dissolveDuration: 1.5
+  _dissolveDelay: 0.5
+  _dissolveCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _renderers:
+  - {fileID: 2651669859309169237}
+--- !u!1 &8023444082287320159
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3934979568950715165}
+  - component: {fileID: 1756981025352556973}
+  - component: {fileID: 1171453893333218864}
+  m_Layer: 0
+  m_Name: RightHitox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3934979568950715165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8023444082287320159}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2651669859304010753}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1756981025352556973
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8023444082287320159}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.6, y: 0.275, z: 0.6}
+  m_Center: {x: -0.7, y: -0.007, z: 0.06}
+--- !u!114 &1171453893333218864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8023444082287320159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2c49fd1b49a5748a4ebb3c856a75ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHitbox
+  _targetLayerMask:
+    serializedVersion: 2
+    m_Bits: 264

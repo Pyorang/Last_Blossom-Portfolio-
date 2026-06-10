@@ -1,0 +1,3017 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &405842275927411510
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5942763915891311416}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5942763915891311416
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 405842275927411510}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.5006023e-13, y: 0.00000028954773, z: -0.10439413, w: 0.99453604}
+  m_LocalPosition: {x: -0.27233902, y: -0.00024879456, z: -6.9034284e-10}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4131339567239531683}
+  m_Father: {fileID: 5578145362580652999}
+  m_LocalEulerAnglesHint: {x: -0.006641976, y: -0.0013198088, z: -20.663475}
+--- !u!1 &645661808474715866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2524889083815068908}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2524889083815068908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645661808474715866}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.4720797, y: 0.5003924, z: 0.12617871, w: 0.71472174}
+  m_LocalPosition: {x: -0.28607452, y: 0.012277527, z: 0.25568038}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8283209242713365565}
+  m_Father: {fileID: 8526673903402211770}
+  m_LocalEulerAnglesHint: {x: -36.57638, y: 54.85502, z: -29.754202}
+--- !u!1 &665814822162861331
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1781366926875577426}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1781366926875577426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 665814822162861331}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000010413269, y: 0.000000011127253, z: 0.09317634, w: 0.99564964}
+  m_LocalPosition: {x: -0.2798729, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3811942221255030762}
+  m_LocalEulerAnglesHint: {x: -0.00000035497058, y: -0.0000015099774, z: -9.28389}
+--- !u!1 &719397183615259280
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3338536490369408490}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tongue1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3338536490369408490
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 719397183615259280}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.9620471, y: 0.27288365, z: 0.0000009848245, w: -0.0000011937698}
+  m_LocalPosition: {x: -0.63610655, y: -0.13408905, z: 0.0000070190426}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1637467842892214755}
+  m_Father: {fileID: 3033504661596592191}
+  m_LocalEulerAnglesHint: {x: -0.00019637856, y: 179.99983, z: 161.4839}
+--- !u!1 &756601123486520742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4890679528917821035}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4890679528917821035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 756601123486520742}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.093176335, w: 0.99564964}
+  m_LocalPosition: {x: -0.27987283, y: -0.000000076293944, z: 0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9076315720956084535}
+  m_LocalEulerAnglesHint: {x: 0.00000024788622, y: 0.0000035010041, z: -9.283891}
+--- !u!1 &926182420551702176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7576699987756108332}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7576699987756108332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 926182420551702176}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000011853802, y: 0.000000009219624, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.3512275, y: 0.48809206, z: 0.16908081}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9076315720956084535}
+  m_Father: {fileID: 7178387957448220423}
+  m_LocalEulerAnglesHint: {x: 0.00008080861, y: 0.00006505297, z: -75.91756}
+--- !u!1 &981682488433679430
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2421484409136780696}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2421484409136780696
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 981682488433679430}
+  serializedVersion: 2
+  m_LocalRotation: {x: 9.9685505e-14, y: 0.00000028954747, z: -0.10439411, w: 0.99453604}
+  m_LocalPosition: {x: -0.37571457, y: -0.00027801513, z: -7.706694e-10}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5578145362580652999}
+  m_Father: {fileID: 4262638201351757894}
+  m_LocalEulerAnglesHint: {x: 0.013081956, y: -0.0024946972, z: -10.902724}
+--- !u!1 &1010572371607934947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8825535433336785925}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8825535433336785925
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010572371607934947}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0015518564, y: -0.01365376, z: -0.084497966, w: 0.9963289}
+  m_LocalPosition: {x: -0.565822, y: 0.05829025, z: 0.17046112}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4117456712073043861}
+  m_Father: {fileID: 4919203275682968825}
+  m_LocalEulerAnglesHint: {x: -5.328351, y: 23.34961, z: 1.5952775}
+--- !u!1 &1031763161565817434
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7231080884664943491}
+  m_Layer: 6
+  m_Name: Deinodonte_ Footsteps
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7231080884664943491
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031763161565817434}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.35641295, y: 0.35641244, z: -0.6107123, w: 0.61071306}
+  m_LocalPosition: {x: -1.8254256, y: -0.0000023936848, z: -1.0312719}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7719694648501919229}
+  m_LocalEulerAnglesHint: {x: -0.020809878, y: 55.21638, z: -90.28818}
+--- !u!1 &1037535114423794073
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7414458390639541386}
+  - component: {fileID: 5847504468234062937}
+  m_Layer: 6
+  m_Name: RoarHitBox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7414458390639541386
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1037535114423794073}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: 2.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9208264825614061432}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5847504468234062937
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1037535114423794073}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 3, y: 3, z: 3}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1150808013750334805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3620265066847030455}
+  - component: {fileID: 8824347814555929555}
+  - component: {fileID: 2406907364796707857}
+  m_Layer: 6
+  m_Name: TankLeftHandHitBox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3620265066847030455
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150808013750334805}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4919203275682968825}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &8824347814555929555
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150808013750334805}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 4
+  m_Direction: 0
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2406907364796707857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150808013750334805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2c49fd1b49a5748a4ebb3c856a75ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHitbox
+  _targetLayerMask:
+    serializedVersion: 2
+    m_Bits: 264
+--- !u!1 &1180593027447540849
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5855125607012255721}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5855125607012255721
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180593027447540849}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00039757416, y: -0.053842016, z: 0.000021435933, w: 0.9985494}
+  m_LocalPosition: {x: -0.66277283, y: -0.00013687134, z: -0.17197967}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7287935883713285456}
+  m_Father: {fileID: 4919203275682968825}
+  m_LocalEulerAnglesHint: {x: -0.045361076, y: -6.1728306, z: 4.9604063}
+--- !u!1 &1241562534336581924
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2993946244133865493}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2993946244133865493
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241562534336581924}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000004374632, y: -0.000000017512999, z: 0.6461599, w: 0.7632021}
+  m_LocalPosition: {x: -1.2910101, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1968373849079092361}
+  m_Father: {fileID: 5876976987222991601}
+  m_LocalEulerAnglesHint: {x: 0.0000024217218, y: -0.0000036176552, z: 135.10896}
+--- !u!1 &1297642969336033658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7584588568890409756}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7584588568890409756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297642969336033658}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000024197297, y: -0.000000024797577, z: -0.1641543, w: 0.9864347}
+  m_LocalPosition: {x: -0.27271622, y: 0.00000015258789, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3324212792115249832}
+  m_LocalEulerAnglesHint: {x: 0.0000009071947, y: -0.00000014636954, z: -36.84635}
+--- !u!1 &1368283265456477965
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 372515554702097932}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &372515554702097932
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1368283265456477965}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.4720797, y: -0.5003924, z: 0.1261787, w: 0.71472174}
+  m_LocalPosition: {x: -0.28607443, y: 0.012277374, z: -0.25568053}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3928751540577370487}
+  m_Father: {fileID: 4919203275682968825}
+  m_LocalEulerAnglesHint: {x: 36.576385, y: -54.855015, z: -19.196718}
+--- !u!1 &1468164009663598124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3033504661596592191}
+  m_Layer: 6
+  m_Name: Deinodonte_ Ponytail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3033504661596592191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468164009663598124}
+  serializedVersion: 2
+  m_LocalRotation: {x: 4.1325098e-13, y: 0.00000042703664, z: -0.15396546, w: 0.98807627}
+  m_LocalPosition: {x: 0.13274795, y: 0.7239462, z: -0.0000011819088}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3338536490369408490}
+  m_Father: {fileID: 8394812526231274690}
+  m_LocalEulerAnglesHint: {x: 0.000035595145, y: 0.00012976947, z: -22.122808}
+--- !u!1 &1469147990512700739
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3244862956522813226}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3244862956522813226
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1469147990512700739}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000018025712, y: -0.00000005730009, z: 0.4160868, w: 0.9093249}
+  m_LocalPosition: {x: -1.5803427, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999976, y: 0.9999999, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8526673903402211770}
+  m_Father: {fileID: 3997890774946436934}
+  m_LocalEulerAnglesHint: {x: -0.0000011801727, y: 0.0000033164727, z: 95.55194}
+--- !u!1 &1560476857646325782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4131339567239531683}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tail4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4131339567239531683
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560476857646325782}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.8090479e-14, y: 0.00000028954742, z: -0.10439409, w: 0.99453604}
+  m_LocalPosition: {x: -0.31920257, y: -0.0002922821, z: -8.1025064e-10}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5942763915891311416}
+  m_LocalEulerAnglesHint: {x: 0.0039315694, y: -0.0040743104, z: -19.204067}
+--- !u!1 &1774888920589417119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3324212792115249832}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3324212792115249832
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1774888920589417119}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000021801936, y: 0.0000000035488008, z: -0.087143406, w: 0.9961958}
+  m_LocalPosition: {x: -0.2772795, y: 0, z: -0.00000030517577}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7584588568890409756}
+  m_Father: {fileID: 8530491281592148064}
+  m_LocalEulerAnglesHint: {x: -0.00000093122003, y: 0.0000009773191, z: -27.948713}
+--- !u!1 &1895731401022495284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6391082226143058863}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6391082226143058863
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1895731401022495284}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.060281873, y: -0.0964974, z: 0.16575405, w: 0.97958153}
+  m_LocalPosition: {x: -0.55919695, y: 0.000000114440915, z: 0.00000015258789}
+  m_LocalScale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6258624230662007875}
+  - {fileID: 155034165492421682}
+  - {fileID: 2719066597030082192}
+  m_Father: {fileID: 1968373849079092361}
+  m_LocalEulerAnglesHint: {x: -2.2364917, y: -17.1031, z: 28.396563}
+--- !u!1 &2037095157541520573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2795214317922772573}
+  - component: {fileID: 9157427114278571906}
+  - component: {fileID: 5289123743102850298}
+  m_Layer: 6
+  m_Name: TankRightHandHitBox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2795214317922772573
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2037095157541520573}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8526673903402211770}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &9157427114278571906
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2037095157541520573}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 4
+  m_Direction: 0
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &5289123743102850298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2037095157541520573}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2c49fd1b49a5748a4ebb3c856a75ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHitbox
+  _targetLayerMask:
+    serializedVersion: 2
+    m_Bits: 264
+--- !u!1 &2526775847923688994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8090434171827854166}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8090434171827854166
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2526775847923688994}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000001194436, y: 0.000000007652462, z: -0.16415429, w: 0.9864347}
+  m_LocalPosition: {x: -0.27271667, y: -0.00000015258789, z: 0.00000030517577}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7287935883713285456}
+  m_LocalEulerAnglesHint: {x: -0.0000010343155, y: -0.00000062293674, z: -13.94072}
+--- !u!1 &2713257773960207191
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3928751540577370487}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3928751540577370487
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2713257773960207191}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000024244404, y: -0.000000014702609, z: -0.16270144, w: 0.9866754}
+  m_LocalPosition: {x: -0.38126892, y: -0.00000015258789, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2846828035046023997}
+  m_Father: {fileID: 372515554702097932}
+  m_LocalEulerAnglesHint: {x: -0.0000014049011, y: -0.00000027634408, z: -15.437037}
+--- !u!1 &2820021257416580400
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7269190409066652143}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7269190409066652143
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2820021257416580400}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.040936e-10, y: 0.0000000037033088, z: 0.108473055, w: 0.99409944}
+  m_LocalPosition: {x: -0.23074208, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7367646657351777257}
+  m_LocalEulerAnglesHint: {x: 0.00000019319846, y: -0.0000013490286, z: -14.9012165}
+--- !u!1 &2853805053465713423
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7459292194021712120}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7459292194021712120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2853805053465713423}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000013116657, y: -0.00000003062966, z: 0.64615995, w: 0.763202}
+  m_LocalPosition: {x: -1.2910104, y: 0.000000038146972, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4005881233962683432}
+  m_Father: {fileID: 3694160089662788457}
+  m_LocalEulerAnglesHint: {x: 0.0000014790255, y: 0.0000027332758, z: 135.63597}
+--- !u!1 &3046204265255007926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4262638201351757894}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4262638201351757894
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3046204265255007926}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000013381728, y: -0.00000045143537, z: 0.9843548, w: 0.17619774}
+  m_LocalPosition: {x: 0.71082467, y: -0.024853058, z: 0.00000088250727}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2421484409136780696}
+  m_Father: {fileID: 3456214402982355094}
+  m_LocalEulerAnglesHint: {x: 0.000065892076, y: 0.000060918934, z: 178.09259}
+--- !u!1 &3123814256519284558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3811942221255030762}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3811942221255030762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3123814256519284558}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000030032833, y: 0.0000000031802665, z: 0.057082947, w: 0.99836946}
+  m_LocalPosition: {x: -0.26906553, y: 0, z: 0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1781366926875577426}
+  m_Father: {fileID: 155034165492421682}
+  m_LocalEulerAnglesHint: {x: 0.0000003867599, y: 0.00000072526035, z: -13.018463}
+--- !u!1 &3175654458757936028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5876976987222991601}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5876976987222991601
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3175654458757936028}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.6214832, y: 0.7037361, z: -0.22156398, w: -0.26348338}
+  m_LocalPosition: {x: -0.0000010681152, y: -0.0000012207031, z: -0.7054642}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2993946244133865493}
+  m_Father: {fileID: 3456214402982355094}
+  m_LocalEulerAnglesHint: {x: 36.262547, y: 161.45229, z: -112.76941}
+--- !u!1 &3175889285440251908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8283209242713365565}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8283209242713365565
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3175889285440251908}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000074292883, y: 0.00000004653227, z: -0.16270144, w: 0.9866754}
+  m_LocalPosition: {x: -0.38126892, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5594175365261436198}
+  m_Father: {fileID: 2524889083815068908}
+  m_LocalEulerAnglesHint: {x: 0.00000009744605, y: -0.0000000435177, z: -24.064709}
+--- !u!1 &3497540397163958532
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1423258990667750171}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1423258990667750171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3497540397163958532}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000034600596, y: 0.000000007197213, z: -0.11640218, w: 0.9932022}
+  m_LocalPosition: {x: -0.31164253, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4645016124380841942}
+  m_LocalEulerAnglesHint: {x: -0.0000005767505, y: 0.0000011484074, z: -21.69984}
+--- !u!1 &3654946211811226112
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3456214402982355094}
+  m_Layer: 6
+  m_Name: Deinodonte_ Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3456214402982355094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3654946211811226112}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.4626603, y: 0.5347383, z: 0.5347379, w: 0.46266165}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3694160089662788457}
+  - {fileID: 5876976987222991601}
+  - {fileID: 4671817199857259969}
+  - {fileID: 4262638201351757894}
+  m_Father: {fileID: 7719694648501919229}
+  m_LocalEulerAnglesHint: {x: -89.98021, y: 98.266525, z: 0}
+--- !u!1 &3711958982483252001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8526673903402211770}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8526673903402211770
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3711958982483252001}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.4508972, y: -0.013414609, z: 0.08744712, w: 0.8881806}
+  m_LocalPosition: {x: -1.5570685, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2524889083815068908}
+  - {fileID: 8530491281592148064}
+  - {fileID: 139413675365630909}
+  - {fileID: 2795214317922772573}
+  m_Father: {fileID: 3244862956522813226}
+  m_LocalEulerAnglesHint: {x: 41.506283, y: -10.001271, z: -33.681286}
+--- !u!1 &3756658332710838641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4117456712073043861}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4117456712073043861
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3756658332710838641}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000008585375, y: 0.000000025249319, z: -0.11640222, w: 0.9932022}
+  m_LocalPosition: {x: -0.23122719, y: 0.00000015258789, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4166799156376061081}
+  m_Father: {fileID: 8825535433336785925}
+  m_LocalEulerAnglesHint: {x: 0.00000080305995, y: 0.0000011854149, z: -7.5506473}
+--- !u!1 &3764299640183850655
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5594175365261436198}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5594175365261436198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3764299640183850655}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000016056413, y: -0.000000049199645, z: -0.21102162, w: 0.97748137}
+  m_LocalPosition: {x: -0.33953086, y: 0.00000022888183, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8283209242713365565}
+  m_LocalEulerAnglesHint: {x: -0.0000016341767, y: -0.00000043840046, z: -15.28807}
+--- !u!1 &3809415463148209155
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9076315720956084535}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9076315720956084535
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3809415463148209155}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.3923186e-10, y: 0.000000004184118, z: 0.057082944, w: 0.99836946}
+  m_LocalPosition: {x: -0.2690655, y: 0.000000076293944, z: -0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4890679528917821035}
+  m_Father: {fileID: 7576699987756108332}
+  m_LocalEulerAnglesHint: {x: -0.00000052395313, y: 0.0000005764055, z: -13.018462}
+--- !u!1 &3954124025802005583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6258624230662007875}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6258624230662007875
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3954124025802005583}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0062062126, y: 0.0072284527, z: -0.6513906, w: 0.7586827}
+  m_LocalPosition: {x: -0.36833572, y: 0.4147985, z: 0.22239044}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7367646657351777257}
+  m_Father: {fileID: 6391082226143058863}
+  m_LocalEulerAnglesHint: {x: 1.0792503, y: 0.16516818, z: -85.81227}
+--- !u!1 &4106515630457162370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7178387957448220423}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7178387957448220423
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4106515630457162370}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.060281973, y: 0.0964975, z: 0.16575405, w: 0.9795815}
+  m_LocalPosition: {x: -0.5591972, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4726491546019966102}
+  - {fileID: 7576699987756108332}
+  - {fileID: 6354439885481798840}
+  m_Father: {fileID: 4005881233962683432}
+  m_LocalEulerAnglesHint: {x: 1.756068, y: 16.901646, z: 28.433317}
+--- !u!1 &4111023879549355993
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4671817199857259969}
+  m_Layer: 6
+  m_Name: Deinodonte_ Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4671817199857259969
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4111023879549355993}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000001811587, y: -0.00000038647656, z: 0.3502467, w: 0.9366575}
+  m_LocalPosition: {x: -0.4400766, y: 0.13810562, z: 0.00000012357253}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6936381121523751797}
+  m_Father: {fileID: 3456214402982355094}
+  m_LocalEulerAnglesHint: {x: -0.012913464, y: -0.01491856, z: 22.85076}
+--- !u!1 &4380060640022960875
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1596783968715443815}
+  m_Layer: 6
+  m_Name: Deinodonte_ Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1596783968715443815
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4380060640022960875}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000015466896, y: 0.000004955009, z: -0.72406393, w: 0.68973285}
+  m_LocalPosition: {x: -1.0140262, y: 0.31042975, z: 0.0000018988806}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8394812526231274690}
+  m_Father: {fileID: 6936381121523751797}
+  m_LocalEulerAnglesHint: {x: 0.000101820224, y: 0.0004996063, z: -74.14584}
+--- !u!1 &4428977852461674376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1637467842892214755}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tongue2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1637467842892214755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4428977852461674376}
+  serializedVersion: 2
+  m_LocalRotation: {x: 8.711792e-10, y: -0.00000005457571, z: 0.01596073, w: 0.9998726}
+  m_LocalPosition: {x: -0.14047234, y: 0, z: -0.000000016207705}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8978952988253530226}
+  m_Father: {fileID: 3338536490369408490}
+  m_LocalEulerAnglesHint: {x: -0.018320952, y: -0.00064891885, z: 1.7524354}
+--- !u!1 &4445694550802295443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5947560798540743918}
+  - component: {fileID: 5345641585719759383}
+  m_Layer: 6
+  m_Name: SK_Deinodonte
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5947560798540743918
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4445694550802295443}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0.0000000420947, y: 3.0677037, z: 0.96301466}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1487363432779222612}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5345641585719759383
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4445694550802295443}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 49313b8071f60c34f943813667438f1b, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: bc143661372c43d4b8b6d3bdcf076856, type: 3}
+  m_Bones:
+  - {fileID: 8394812526231274690}
+  - {fileID: 7459292194021712120}
+  - {fileID: 5318340459551313287}
+  - {fileID: 372515554702097932}
+  - {fileID: 3928751540577370487}
+  - {fileID: 5855125607012255721}
+  - {fileID: 2846828035046023997}
+  - {fileID: 8825535433336785925}
+  - {fileID: 7287935883713285456}
+  - {fileID: 8090434171827854166}
+  - {fileID: 4117456712073043861}
+  - {fileID: 4166799156376061081}
+  - {fileID: 7178387957448220423}
+  - {fileID: 8441800014591262140}
+  - {fileID: 4919203275682968825}
+  - {fileID: 4005881233962683432}
+  - {fileID: 3694160089662788457}
+  - {fileID: 4726491546019966102}
+  - {fileID: 6475481649742218097}
+  - {fileID: 7576699987756108332}
+  - {fileID: 1596783968715443815}
+  - {fileID: 6936381121523751797}
+  - {fileID: 3033504661596592191}
+  - {fileID: 4671817199857259969}
+  - {fileID: 7445060928919476960}
+  - {fileID: 3456214402982355094}
+  - {fileID: 2633264237659632671}
+  - {fileID: 3997890774946436934}
+  - {fileID: 5876976987222991601}
+  - {fileID: 3338536490369408490}
+  - {fileID: 1637467842892214755}
+  - {fileID: 4262638201351757894}
+  - {fileID: 5942763915891311416}
+  - {fileID: 8978952988253530226}
+  - {fileID: 3244862956522813226}
+  - {fileID: 155034165492421682}
+  - {fileID: 7367646657351777257}
+  - {fileID: 6258624230662007875}
+  - {fileID: 8526673903402211770}
+  - {fileID: 6391082226143058863}
+  - {fileID: 1423258990667750171}
+  - {fileID: 4645016124380841942}
+  - {fileID: 7584588568890409756}
+  - {fileID: 3324212792115249832}
+  - {fileID: 139413675365630909}
+  - {fileID: 5594175365261436198}
+  - {fileID: 8530491281592148064}
+  - {fileID: 8283209242713365565}
+  - {fileID: 2524889083815068908}
+  - {fileID: 134232401009524953}
+  - {fileID: 5541475971495376657}
+  - {fileID: 1968373849079092361}
+  - {fileID: 2993946244133865493}
+  - {fileID: 7740288896536586366}
+  - {fileID: 4890679528917821035}
+  - {fileID: 5578145362580652999}
+  - {fileID: 1781366926875577426}
+  - {fileID: 2421484409136780696}
+  - {fileID: 4131339567239531683}
+  - {fileID: 4308120982600183990}
+  - {fileID: 6354439885481798840}
+  - {fileID: 147291639083841186}
+  - {fileID: 9076315720956084535}
+  - {fileID: 7269190409066652143}
+  - {fileID: 2719066597030082192}
+  - {fileID: 9138254850915540002}
+  - {fileID: 3811942221255030762}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 3456214402982355094}
+  m_AABB:
+    m_Center: {x: -0.99504197, y: 0.31564116, z: 0.021156669}
+    m_Extent: {x: 3.2775931, y: 3.9562247, z: 3.8670945}
+  m_DirtyAABB: 0
+--- !u!1 &4648763610194215729
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4308120982600183990}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4308120982600183990
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4648763610194215729}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.10847304, w: 0.99409944}
+  m_LocalPosition: {x: -0.23074214, y: 0, z: -0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6475481649742218097}
+  m_LocalEulerAnglesHint: {x: -0.0000010113989, y: 0.0000015943622, z: -14.9012165}
+--- !u!1 &4800845819113486123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8394812526231274690}
+  m_Layer: 6
+  m_Name: Deinodonte_ Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8394812526231274690
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4800845819113486123}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000002383291, y: 0.0000013300877, z: -0.035380963, w: 0.9993739}
+  m_LocalPosition: {x: -0.78699684, y: 0.00000030517577, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3033504661596592191}
+  m_Father: {fileID: 1596783968715443815}
+  m_LocalEulerAnglesHint: {x: -0.021216702, y: 0.03258222, z: -18.67447}
+--- !u!1 &4851036305317099284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7445060928919476960}
+  m_Layer: 6
+  m_Name: Deinodonte_ L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7445060928919476960
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4851036305317099284}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.111339755, y: -0.129023, z: -0.063892566, w: 0.98329765}
+  m_LocalPosition: {x: -0.628112, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8441800014591262140}
+  m_Father: {fileID: 5318340459551313287}
+  m_LocalEulerAnglesHint: {x: -36.502724, y: 3.0354233, z: -5.4912667}
+--- !u!1 &4853431534986868122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7287935883713285456}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7287935883713285456
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4853431534986868122}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.6231724e-10, y: -0.0000000018555592, z: -0.08714341, w: 0.9961958}
+  m_LocalPosition: {x: -0.2772795, y: 0.00000015258789, z: -0.00000045776366}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8090434171827854166}
+  m_Father: {fileID: 5855125607012255721}
+  m_LocalEulerAnglesHint: {x: 0.00000092551926, y: 0.00000077541773, z: -5.043078}
+--- !u!1 &4944246651262080770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1487363432779222612}
+  - component: {fileID: 5329166620356760309}
+  - component: {fileID: 7945319366853199596}
+  - component: {fileID: 4196891269682147032}
+  m_Layer: 6
+  m_Name: Deinodonte
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1487363432779222612
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4944246651262080770}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2977451293439958413}
+  - {fileID: 5947560798540743918}
+  m_Father: {fileID: 9208264825614061432}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &5329166620356760309
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4944246651262080770}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: bc143661372c43d4b8b6d3bdcf076856, type: 3}
+  m_Controller: {fileID: 9100000, guid: 1950b962fa429404fa80958feaf1e1e9, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7945319366853199596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4944246651262080770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b3ddb13e7910549bbbbfa3a37f0d37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TankAnimator
+  _movement: {fileID: 755760998497694358}
+  _controller: {fileID: 26980526044288717}
+--- !u!114 &4196891269682147032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4944246651262080770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b0f39f08399f0e49971953eab149701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySFX
+  _usePeriodicSound: 1
+  _periodicSoundBase: "\uD0F1\uCEE4_\uC77C\uBC18\uAC00\uB054"
+  _periodicMinInterval: 4
+  _periodicMaxInterval: 8
+  _periodicVariants: 1
+  _useLoopSound: 0
+  _loopSoundBase: 
+  _loopVariants: 2
+--- !u!1 &5317615525351077530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2719066597030082192}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2719066597030082192
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5317615525351077530}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.41779143, y: -0.41779146, z: -0.57048255, w: 0.5704826}
+  m_LocalPosition: {x: -0.25408408, y: 0.08630607, z: -0.22451203}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9138254850915540002}
+  m_Father: {fileID: 6391082226143058863}
+  m_LocalEulerAnglesHint: {x: -57.727444, y: -0.1444396, z: -72.19296}
+--- !u!1 &5414395474853920944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7367646657351777257}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7367646657351777257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5414395474853920944}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.0408338e-17, y: -0.0000000027939675, z: -0.0000000037252899, w: 1}
+  m_LocalPosition: {x: -0.26060587, y: 0, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7269190409066652143}
+  m_Father: {fileID: 6258624230662007875}
+  m_LocalEulerAnglesHint: {x: 0, y: -0.0000036652234, z: 0}
+--- !u!1 &5549987165860687274
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7740288896536586366}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7740288896536586366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5549987165860687274}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0.000000014901163, z: -0, w: 1}
+  m_LocalPosition: {x: -0.2610479, y: -0.000000076293944, z: 0.000000019073486}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9138254850915540002}
+  m_LocalEulerAnglesHint: {x: -0.0000013075993, y: -0.0000038918724, z: -27.544048}
+--- !u!1 &5595115430693805079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4919203275682968825}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4919203275682968825
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5595115430693805079}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.45089716, y: 0.013414589, z: 0.08744712, w: 0.8881807}
+  m_LocalPosition: {x: -1.5570683, y: -0.000000038146972, z: -0.00000030517577}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 372515554702097932}
+  - {fileID: 5855125607012255721}
+  - {fileID: 8825535433336785925}
+  - {fileID: 3620265066847030455}
+  m_Father: {fileID: 8441800014591262140}
+  m_LocalEulerAnglesHint: {x: -56.15489, y: 7.0887384, z: -14.494035}
+--- !u!1 &5615409994746071730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4005881233962683432}
+  m_Layer: 6
+  m_Name: Deinodonte_ L HorseLink
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4005881233962683432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5615409994746071730}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000008630176, y: -0.00000006572954, z: -0.5984759, w: 0.80114084}
+  m_LocalPosition: {x: -0.7550497, y: -0.000000076293944, z: 0.00000015258789}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7178387957448220423}
+  m_Father: {fileID: 7459292194021712120}
+  m_LocalEulerAnglesHint: {x: 0.000008940137, y: -0.0000065774616, z: -103.722885}
+--- !u!1 &5647419383377079946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8441800014591262140}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8441800014591262140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5647419383377079946}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000028741154, y: 0.00000008325043, z: 0.41608673, w: 0.90932494}
+  m_LocalPosition: {x: -1.580343, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4919203275682968825}
+  m_Father: {fileID: 7445060928919476960}
+  m_LocalEulerAnglesHint: {x: -0.0000006340554, y: -0.0000018007278, z: 97.167336}
+--- !u!1 &5773103268314008579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1968373849079092361}
+  m_Layer: 6
+  m_Name: Deinodonte_ R HorseLink
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1968373849079092361
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5773103268314008579}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000004768079, y: 0.0000000015808965, z: -0.5984759, w: 0.80114084}
+  m_LocalPosition: {x: -0.75504994, y: 0.000000038146972, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6391082226143058863}
+  m_Father: {fileID: 2993946244133865493}
+  m_LocalEulerAnglesHint: {x: -0.000006496873, y: 0.000002273997, z: -102.16575}
+--- !u!1 &6011425625804209589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4645016124380841942}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4645016124380841942
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6011425625804209589}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000031016082, y: 0.000000007385839, z: -0.11640222, w: 0.99320215}
+  m_LocalPosition: {x: -0.23122734, y: 0.00000030517577, z: -0.00000061035155}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1423258990667750171}
+  m_Father: {fileID: 139413675365630909}
+  m_LocalEulerAnglesHint: {x: 0.00000012627626, y: -0.0000017555637, z: -9.922089}
+--- !u!1 &6044854418909407647
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 147291639083841186}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &147291639083841186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6044854418909407647}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000013883217, y: -0.000000012417769, z: 0.08612936, w: 0.99628395}
+  m_LocalPosition: {x: -0.24925308, y: -0.000000076293944, z: -0.000000014305114}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5541475971495376657}
+  m_Father: {fileID: 6354439885481798840}
+  m_LocalEulerAnglesHint: {x: -0.0000008965616, y: 0.0000016023345, z: -6.309158}
+--- !u!1 &6177440229768696839
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4726491546019966102}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4726491546019966102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6177440229768696839}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.006206214, y: -0.007228453, z: -0.6513907, w: 0.75868267}
+  m_LocalPosition: {x: -0.36833572, y: 0.41479847, z: -0.22239044}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6475481649742218097}
+  m_Father: {fileID: 7178387957448220423}
+  m_LocalEulerAnglesHint: {x: -1.0791191, y: -0.16513757, z: -85.81228}
+--- !u!1 &6364854638006326719
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8978952988253530226}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tongue3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8978952988253530226
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6364854638006326719}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.8736403e-16, y: 7.1029566e-15, z: 0.026369143, w: 0.99965227}
+  m_LocalPosition: {x: -0.18773375, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 134232401009524953}
+  m_Father: {fileID: 1637467842892214755}
+  m_LocalEulerAnglesHint: {x: 0.017536417, y: -0.0024599156, z: -18.654379}
+--- !u!1 &6393064630091309502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5318340459551313287}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5318340459551313287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6393064630091309502}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.52267104, y: 0.11631585, z: 0.8414269, w: -0.07270753}
+  m_LocalPosition: {x: -1.065541, y: -0.027705994, z: 0.43476778}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7445060928919476960}
+  m_Father: {fileID: 6936381121523751797}
+  m_LocalEulerAnglesHint: {x: -17.837275, y: -55.213833, z: -156.14091}
+--- !u!1 &6432128008834404351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2977451293439958413}
+  m_Layer: 6
+  m_Name: root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2977451293439958413
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6432128008834404351}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7719694648501919229}
+  m_Father: {fileID: 1487363432779222612}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &6559966072042275096
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 139413675365630909}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &139413675365630909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6559966072042275096}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0015518765, y: 0.013653771, z: -0.084497996, w: 0.9963289}
+  m_LocalPosition: {x: -0.5658216, y: 0.058290098, z: -0.17046097}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4645016124380841942}
+  m_Father: {fileID: 8526673903402211770}
+  m_LocalEulerAnglesHint: {x: 5.3283515, y: -23.34962, z: -16.078259}
+--- !u!1 &6596445747120954460
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4166799156376061081}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4166799156376061081
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6596445747120954460}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000018268922, y: -0.000000027865205, z: -0.11640216, w: 0.9932022}
+  m_LocalPosition: {x: -0.31164277, y: 0, z: 0.00000030517577}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4117456712073043861}
+  m_LocalEulerAnglesHint: {x: -0.000004441614, y: 0.0000008793252, z: -19.328388}
+--- !u!1 &6633817265551422573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7719694648501919229}
+  m_Layer: 6
+  m_Name: Deinodonte_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7719694648501919229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6633817265551422573}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.35641295, y: -0.35641244, z: 0.6107123, w: 0.61071306}
+  m_LocalPosition: {x: -0, y: 0.97109985, z: 1.911}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7231080884664943491}
+  - {fileID: 3456214402982355094}
+  m_Father: {fileID: 2977451293439958413}
+  m_LocalEulerAnglesHint: {x: 55.215237, y: 0.4357033, z: 90.50516}
+--- !u!1 &6777942024375999999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8530491281592148064}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Finger1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8530491281592148064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6777942024375999999}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00039757122, y: 0.05384206, z: 0.000021421154, w: 0.9985494}
+  m_LocalPosition: {x: -0.6627729, y: -0.00013687134, z: 0.17197922}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3324212792115249832}
+  m_Father: {fileID: 8526673903402211770}
+  m_LocalEulerAnglesHint: {x: 0.045361903, y: 6.1728315, z: 8.044372}
+--- !u!1 &6880670177762759057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2633264237659632671}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2633264237659632671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6880670177762759057}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.5226708, y: -0.116318166, z: 0.8414266, w: -0.07270899}
+  m_LocalPosition: {x: -1.065541, y: -0.027703399, z: -0.43476793}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3997890774946436934}
+  m_Father: {fileID: 6936381121523751797}
+  m_LocalEulerAnglesHint: {x: 18.462551, y: 57.549362, z: -153.46019}
+--- !u!1 &7078266761997261938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6475481649742218097}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6475481649742218097
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7078266761997261938}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000014901161, y: 0.000000006519258, z: 0.000000007450581, w: 1}
+  m_LocalPosition: {x: -0.26060584, y: 0.000000076293944, z: 0.00000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4308120982600183990}
+  m_Father: {fileID: 4726491546019966102}
+  m_LocalEulerAnglesHint: {x: -1.1194059e-14, y: 0.0000030048827, z: 0.00000021344337}
+--- !u!1 &7190431531934779122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5578145362580652999}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5578145362580652999
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7190431531934779122}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.645313e-14, y: 0.00000028954742, z: -0.10439407, w: 0.99453604}
+  m_LocalPosition: {x: -0.35715088, y: -0.00021209716, z: -5.8789734e-10}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5942763915891311416}
+  m_Father: {fileID: 2421484409136780696}
+  m_LocalEulerAnglesHint: {x: 0.0005577373, y: -0.0026247117, z: -19.219526}
+--- !u!1 &7639269885066016255
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6354439885481798840}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6354439885481798840
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7639269885066016255}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.41779143, y: 0.4177915, z: -0.57048255, w: 0.5704826}
+  m_LocalPosition: {x: -0.25408402, y: 0.08630596, z: 0.22451217}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 147291639083841186}
+  m_Father: {fileID: 7178387957448220423}
+  m_LocalEulerAnglesHint: {x: 57.727486, y: 0.14444618, z: -72.19296}
+--- !u!1 &7697697668416656172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3997890774946436934}
+  m_Layer: 6
+  m_Name: Deinodonte_ R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3997890774946436934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7697697668416656172}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.11133726, y: 0.12902197, z: -0.063889205, w: 0.9832983}
+  m_LocalPosition: {x: -0.62811184, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3244862956522813226}
+  m_Father: {fileID: 2633264237659632671}
+  m_LocalEulerAnglesHint: {x: 37.965714, y: -5.925785, z: 5.693261}
+--- !u!1 &7740829077918425975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 134232401009524953}
+  m_Layer: 6
+  m_Name: Deinodonte_ Tongue4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &134232401009524953
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7740829077918425975}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.572586e-10, y: -0.0000000035389536, z: -0.044392664, w: 0.9990142}
+  m_LocalPosition: {x: -0.19657578, y: 0, z: 0.0000000020361768}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8978952988253530226}
+  m_LocalEulerAnglesHint: {x: -0.0017609105, y: 0.0014579621, z: -25.088911}
+--- !u!1 &7833784361945838141
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2846828035046023997}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Finger02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2846828035046023997
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7833784361945838141}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000009103506, y: 0.0000000019652922, z: -0.21102162, w: 0.97748137}
+  m_LocalPosition: {x: -0.33953086, y: 0.00000015258789, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3928751540577370487}
+  m_LocalEulerAnglesHint: {x: 0.00000452948, y: -0.0000035374312, z: -6.6604123}
+--- !u!1 &7992100064101305912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9208264825614061432}
+  - component: {fileID: 7754211370530860589}
+  - component: {fileID: 4615852351768777396}
+  - component: {fileID: 1887294085697351317}
+  - component: {fileID: 755760998497694358}
+  - component: {fileID: 2931923606359933049}
+  - component: {fileID: 806439188524566489}
+  - component: {fileID: 9091450515471973607}
+  - component: {fileID: 4678308656238870500}
+  - component: {fileID: 26980526044288717}
+  - component: {fileID: 2015275336461783352}
+  m_Layer: 6
+  m_Name: Enemy_Tank
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9208264825614061432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1487363432779222612}
+  - {fileID: 7414458390639541386}
+  - {fileID: 1919586349402884943}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!195 &7754211370530860589
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Enabled: 1
+  m_AgentTypeID: -334000983
+  m_Radius: 1.3
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2.5
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!65 &4615852351768777396
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.5, y: 2.5, z: 2.5}
+  m_Center: {x: 0, y: 1.25, z: 0}
+--- !u!54 &1887294085697351317
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &755760998497694358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf56fde24f6cbd43aeeabc3dd3a18de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TankMovement
+--- !u!114 &2931923606359933049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 714d68f28e7931e44a9ff168263626ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TankAttack
+  _hitboxes:
+  - {fileID: 2406907364796707857}
+  - {fileID: 5289123743102850298}
+  _comboTriggers:
+  - ClawsAttackLeft
+  - ClawsAttackRight
+--- !u!114 &806439188524566489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a47ccd31cc1f5141b1827c4b021b0bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TankRoar
+--- !u!114 &9091450515471973607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ca0d839394e9ed45a06288971c2942e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TankShield
+  _shieldEffect: {fileID: 1919586349402884938}
+  _breakPopScale: 1.3
+  _breakShrinkDuration: 2
+--- !u!114 &4678308656238870500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15d76e2ae928d6145a1d8bb4e155f856, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthComponent
+  _isPlayer: 0
+  _isInvincible: 0
+--- !u!114 &26980526044288717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 864f4191b09035a4bac38fece457c443, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TankController
+  _enemyId: Tank
+  _animator: {fileID: 7945319366853199596}
+  _dissolveEffect: {fileID: 2015275336461783352}
+  _shieldDamageReduction: 0.75
+--- !u!114 &2015275336461783352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992100064101305912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b70920b9499a0444800cbb96fd38bdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDissolveEffect
+  _dissolveDuration: 1.5
+  _dissolveDelay: 0.5
+  _dissolveCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _renderers:
+  - {fileID: 5345641585719759383}
+--- !u!1 &8056907467775535504
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5541475971495376657}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Toe22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5541475971495376657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8056907467775535504}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0.0000000037252903, z: -0, w: 1}
+  m_LocalPosition: {x: -0.26104766, y: -0.000000076293944, z: 0.000000019073486}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 147291639083841186}
+  m_LocalEulerAnglesHint: {x: 0.0000026492994, y: 0.0000000024619526, z: -27.54405}
+--- !u!1 &8666625838007930290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3694160089662788457}
+  m_Layer: 6
+  m_Name: Deinodonte_ L Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3694160089662788457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8666625838007930290}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.6214835, y: 0.7037368, z: 0.22156353, w: 0.26348162}
+  m_LocalPosition: {x: 0.0000009155273, y: 0.0000010681152, z: 0.7054642}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7459292194021712120}
+  m_Father: {fileID: 3456214402982355094}
+  m_LocalEulerAnglesHint: {x: -36.32795, y: -161.42125, z: -111.76017}
+--- !u!1 &8862810261353786586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9138254850915540002}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9138254850915540002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8862810261353786586}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000008706321, y: -0.0000000142040735, z: 0.08612933, w: 0.99628395}
+  m_LocalPosition: {x: -0.24925293, y: 0, z: 0.000000047683713}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7740288896536586366}
+  m_Father: {fileID: 2719066597030082192}
+  m_LocalEulerAnglesHint: {x: 0.0000008289168, y: 0.000003612687, z: -6.3091564}
+--- !u!1 &8924818562606490980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 155034165492421682}
+  m_Layer: 6
+  m_Name: Deinodonte_ R Toe1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &155034165492421682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8924818562606490980}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.35122755, y: 0.4880921, z: -0.16908081}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3811942221255030762}
+  m_Father: {fileID: 6391082226143058863}
+  m_LocalEulerAnglesHint: {x: 0.0000725888, y: -0.000045166944, z: -75.91753}
+--- !u!1 &9079305491665744619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6936381121523751797}
+  m_Layer: 6
+  m_Name: Deinodonte_ Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6936381121523751797
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9079305491665744619}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000020424138, y: 0.00000045918344, z: -0.09078035, w: 0.99587095}
+  m_LocalPosition: {x: -0.99600124, y: -0.00077995297, z: 0.0000000010924123}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5318340459551313287}
+  - {fileID: 1596783968715443815}
+  - {fileID: 2633264237659632671}
+  m_Father: {fileID: 4671817199857259969}
+  m_LocalEulerAnglesHint: {x: -0.01904607, y: -0.0049499157, z: -28.571035}
+--- !u!1001 &7398317952227419106
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 9208264825614061432}
+    m_Modifications:
+    - target: {fileID: 8939547848361388200, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_Name
+      value: TankShield_Effect
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388207, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939547848361388207, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb8540e407234e042a6c631af794a92e, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+--- !u!1 &1919586349402884938 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8939547848361388200, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+  m_PrefabInstance: {fileID: 7398317952227419106}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1919586349402884943 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8939547848361388205, guid: a1e6d5f51ecf9f14a9d783e702848802, type: 3}
+  m_PrefabInstance: {fileID: 7398317952227419106}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,8 @@
+SkillId,SkillName,Coefficient
+NormalAttack1,일반 공격 1,0.5
+NormalAttack2,일반 공격 2,0.5
+NormalAttack3,일반 공격 3,0.33
+ESkill,E스킬,0.6
+UltimateSlash,궁극기 검기,1.6
+UltimateStorm,궁극기 폭풍,1.45
+UltimateExplosion,궁극기 폭발,5.5

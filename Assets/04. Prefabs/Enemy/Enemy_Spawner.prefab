@@ -1,0 +1,1297 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &177535773552112464
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1059328369435294857}
+  - component: {fileID: 3436506271979925354}
+  m_Layer: 6
+  m_Name: SK_MegaspikanLarvae
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1059328369435294857
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177535773552112464}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5209347255603421735}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &3436506271979925354
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177535773552112464}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: bb9647f98d643dc4383e69c82695137a, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 932285579832655199, guid: c3c8cc67ba8107f4eac3943dd1924b70, type: 3}
+  m_Bones:
+  - {fileID: 9025812676416144903}
+  - {fileID: 1196484030335254278}
+  - {fileID: 5765731381974453357}
+  - {fileID: 8297863028912082904}
+  - {fileID: 5992718203556923}
+  - {fileID: 8507502903370565398}
+  - {fileID: 8905847509792685923}
+  - {fileID: 4030407929133437166}
+  - {fileID: 4108716799133056063}
+  - {fileID: 1318346029088280854}
+  - {fileID: 6347324617462857411}
+  - {fileID: 6318100027825360706}
+  - {fileID: 4582313970217375090}
+  - {fileID: 3041695669573459338}
+  - {fileID: 5565257840176975064}
+  - {fileID: 6575872513642112046}
+  - {fileID: 1387635721198990591}
+  - {fileID: 4984415270487773584}
+  - {fileID: 4346169547269481775}
+  - {fileID: 5274942737715547236}
+  - {fileID: 868601375189803535}
+  - {fileID: 3205693338493350445}
+  - {fileID: 2161357475189918884}
+  - {fileID: 7612532375455380960}
+  - {fileID: 5125414751258693533}
+  - {fileID: 3163197139909791011}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 9025812676416144903}
+  m_AABB:
+    m_Center: {x: 0.11780155, y: -0.32326484, z: -0.000008225441}
+    m_Extent: {x: 2.8635545, y: 1.7219186, z: 1.8695734}
+  m_DirtyAABB: 0
+--- !u!1 &339522028922419268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5274942737715547236}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftFront3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5274942737715547236
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339522028922419268}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.07474117, y: -0.029098164, z: -0.13450365, w: 0.98766184}
+  m_LocalPosition: {x: -0.43471053, y: 0.000000114440915, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5125414751258693533}
+  m_LocalEulerAnglesHint: {x: -11.4924965, y: 14.160136, z: -1.9621768}
+--- !u!1 &1069534916957729473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9025812676416144903}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_Body
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9025812676416144903
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069534916957729473}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.06859617, y: 0.70377177, z: -0.068596356, w: 0.7037716}
+  m_LocalPosition: {x: -0, y: 0.7322323, z: -0.0008311783}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3205693338493350445}
+  - {fileID: 3163197139909791011}
+  - {fileID: 4346169547269481775}
+  - {fileID: 6575872513642112046}
+  - {fileID: 4582313970217375090}
+  - {fileID: 1318346029088280854}
+  - {fileID: 8905847509792685923}
+  - {fileID: 1196484030335254278}
+  m_Father: {fileID: 8886971944837076372}
+  m_LocalEulerAnglesHint: {x: 2.3509395, y: 88.753136, z: -24.019402}
+--- !u!1 &1512925066738838221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5765731381974453357}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_Tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5765731381974453357
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512925066738838221}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000025337075, y: 2.3692823e-10, z: 0.009350641, w: 0.9999563}
+  m_LocalPosition: {x: -0.4880944, y: 0, z: 0.000000056675105}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8297863028912082904}
+  m_Father: {fileID: 1196484030335254278}
+  m_LocalEulerAnglesHint: {x: 0.024496466, y: -0.47530687, z: 6.247577}
+--- !u!1 &1546575614061391691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6275424175297781057}
+  m_Layer: 6
+  m_Name: SpawnPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6275424175297781057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546575614061391691}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.4, z: 1.35}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2555582126324317316}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2006083222646078150
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5992718203556923}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightRear3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5992718203556923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006083222646078150}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.008037017, y: 0.3601722, z: -0.0016384275, w: 0.9328498}
+  m_LocalPosition: {x: -0.4852722, y: -0.000000114440915, z: -0.000000076293944}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8507502903370565398}
+  m_LocalEulerAnglesHint: {x: -9.598357, y: 29.959072, z: -5.0026064}
+--- !u!1 &2929136436943031330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4108716799133056063}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightMiddle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4108716799133056063
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2929136436943031330}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00032758247, y: -0.22559613, z: -0.0020293042, w: 0.9742188}
+  m_LocalPosition: {x: -0.3282129, y: 0.00000045776366, z: 0.000000038146972}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4030407929133437166}
+  m_Father: {fileID: 1318346029088280854}
+  m_LocalEulerAnglesHint: {x: -0.19804189, y: -56.117695, z: -0.44378075}
+--- !u!1 &3048228968543415912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 868601375189803535}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_Tail4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &868601375189803535
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3048228968543415912}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000024886593, y: 2.732343e-10, z: 0.10913596, w: 0.99402684}
+  m_LocalPosition: {x: -0.2853729, y: 0, z: 0.000000032369208}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8297863028912082904}
+  m_LocalEulerAnglesHint: {x: 0.4388119, y: -0.39504895, z: 15.8301325}
+--- !u!1 &3395596403590481180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8297863028912082904}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_Tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8297863028912082904
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3395596403590481180}
+  serializedVersion: 2
+  m_LocalRotation: {x: 9.09784e-16, y: -7.9912423e-17, z: -0.087499805, w: 0.99616456}
+  m_LocalPosition: {x: -0.48264372, y: 0, z: 0.000000055596136}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 868601375189803535}
+  m_Father: {fileID: 5765731381974453357}
+  m_LocalEulerAnglesHint: {x: -0.034508668, y: -1.0226631, z: 0.24016587}
+--- !u!1 &3539481207907659990
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2161357475189918884}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_JawLeft
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2161357475189918884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3539481207907659990}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.27045473, y: -0.09060089, z: 0.3772888, w: 0.88107824}
+  m_LocalPosition: {x: 0.109987944, y: -0.698489, z: -0.44954363}
+  m_LocalScale: {x: 1.0000001, y: 1.0000007, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3205693338493350445}
+  m_LocalEulerAnglesHint: {x: 33.153156, y: 3.8866186, z: -11.802699}
+--- !u!1 &4133834515140230262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3163197139909791011}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftFront1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3163197139909791011
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4133834515140230262}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.56145227, y: 0.650241, z: 0.24165152, w: -0.45117918}
+  m_LocalPosition: {x: -0.43581995, y: -0.43812302, z: -0.6521486}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5125414751258693533}
+  m_Father: {fileID: 9025812676416144903}
+  m_LocalEulerAnglesHint: {x: -41.35391, y: -150.36723, z: 73.92258}
+--- !u!1 &4287332621543360504
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6318100027825360706}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightFront2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6318100027825360706
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4287332621543360504}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.13788477, y: 0.04079114, z: -0.28073356, w: 0.94895345}
+  m_LocalPosition: {x: -0.26408672, y: -0.00000045776366, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1.0000004}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6347324617462857411}
+  m_Father: {fileID: 4582313970217375090}
+  m_LocalEulerAnglesHint: {x: -15.172262, y: 6.6511106, z: -24.014969}
+--- !u!1 &4701051480187385616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1318346029088280854}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightMiddle1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1318346029088280854
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4701051480187385616}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.44972375, y: 0.35537037, z: 0.6378013, w: 0.51446086}
+  m_LocalPosition: {x: 0.10065086, y: -0.37072006, z: 0.646}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4108716799133056063}
+  m_Father: {fileID: 9025812676416144903}
+  m_LocalEulerAnglesHint: {x: -67.12719, y: -129.33813, z: -133.51013}
+--- !u!1 &4856346357630563743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3205693338493350445}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3205693338493350445
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4856346357630563743}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000013831686, y: -0.00000005993784, z: -0.023070576, w: 0.99973387}
+  m_LocalPosition: {x: -1.2830212, y: -0.0000025939942, z: -0.00000015006977}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2161357475189918884}
+  - {fileID: 7612532375455380960}
+  m_Father: {fileID: 9025812676416144903}
+  m_LocalEulerAnglesHint: {x: 0.0000015344385, y: -0.0000021826474, z: 35.107872}
+--- !u!1 &5060571167705576288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8905847509792685923}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightRear1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8905847509792685923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5060571167705576288}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.40814596, y: 0.51682323, z: 0.6508764, w: 0.37771752}
+  m_LocalPosition: {x: 0.71917236, y: -0.24888107, z: 0.5470003}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8507502903370565398}
+  m_Father: {fileID: 9025812676416144903}
+  m_LocalEulerAnglesHint: {x: -51.89919, y: -139.51865, z: -106.024635}
+--- !u!1 &5426152577367089720
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4582313970217375090}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightFront1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4582313970217375090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5426152577367089720}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.45117936, y: 0.24165124, z: 0.65024054, w: 0.5614527}
+  m_LocalPosition: {x: -0.4358201, y: -0.43812293, z: 0.6519999}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6318100027825360706}
+  m_Father: {fileID: 9025812676416144903}
+  m_LocalEulerAnglesHint: {x: -51.74423, y: -31.876307, z: 119.724655}
+--- !u!1 &5517341443239454506
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4984415270487773584}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftMiddle2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4984415270487773584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5517341443239454506}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00032780683, y: -0.22559606, z: 0.0020292809, w: 0.9742188}
+  m_LocalPosition: {x: -0.328213, y: -0.0000004816055, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1387635721198990591}
+  m_Father: {fileID: 4346169547269481775}
+  m_LocalEulerAnglesHint: {x: 0.22333758, y: -59.3273, z: 0.45976886}
+--- !u!1 &5541658170427382126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1196484030335254278}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1196484030335254278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5541658170427382126}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.0595844e-17, y: -6.186229e-17, z: 0.99994653, w: 0.010341338}
+  m_LocalPosition: {x: 1.1980146, y: 0.11976478, z: 0.000000114440915}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5765731381974453357}
+  m_Father: {fileID: 9025812676416144903}
+  m_LocalEulerAnglesHint: {x: -0.008120872, y: 0.12637901, z: -168.14247}
+--- !u!1 &5620763848462342924
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5209347255603421735}
+  - component: {fileID: 4619341496133025129}
+  - component: {fileID: 6912642752765007605}
+  - component: {fileID: 8056228048827667968}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5209347255603421735
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5620763848462342924}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8886971944837076372}
+  - {fileID: 1059328369435294857}
+  m_Father: {fileID: 2555582126324317316}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &4619341496133025129
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5620763848462342924}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: c3c8cc67ba8107f4eac3943dd1924b70, type: 3}
+  m_Controller: {fileID: 9100000, guid: bd8fac016e0dea043aa4ebdccade18e6, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6912642752765007605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5620763848462342924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67f65ee8c2ef0af4793c08f0edd5adcd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnerAnimator
+--- !u!114 &8056228048827667968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5620763848462342924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b0f39f08399f0e49971953eab149701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySFX
+  _usePeriodicSound: 0
+  _periodicSoundBase: 
+  _periodicMinInterval: 3
+  _periodicMaxInterval: 6
+  _periodicVariants: 2
+  _useLoopSound: 0
+  _loopSoundBase: 
+  _loopVariants: 2
+--- !u!1 &5817052021360721442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8886971944837076372}
+  m_Layer: 6
+  m_Name: root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8886971944837076372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5817052021360721442}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9025812676416144903}
+  m_Father: {fileID: 5209347255603421735}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6042149481212873622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2555582126324317316}
+  - component: {fileID: 7064911752363635106}
+  - component: {fileID: 3490545480780161992}
+  - component: {fileID: 4671361095150234483}
+  - component: {fileID: 3531199471036072894}
+  - component: {fileID: 6233687780464931410}
+  - component: {fileID: 8668723333794737077}
+  - component: {fileID: 3794746656449613215}
+  m_Layer: 6
+  m_Name: Enemy_Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2555582126324317316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042149481212873622}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6275424175297781057}
+  - {fileID: 5209347255603421735}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7064911752363635106
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042149481212873622}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1.5, z: 2.5}
+  m_Center: {x: 0, y: 0.5, z: 0}
+--- !u!54 &3490545480780161992
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042149481212873622}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
+--- !u!195 &4671361095150234483
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042149481212873622}
+  m_Enabled: 1
+  m_AgentTypeID: -334000983
+  m_Radius: 1
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 1.2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &3531199471036072894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042149481212873622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b4758b9094a19a4caadc20eeb1d0295, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnerMovement
+--- !u!114 &6233687780464931410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042149481212873622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15d76e2ae928d6145a1d8bb4e155f856, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthComponent
+  _isPlayer: 0
+  _isInvincible: 0
+--- !u!114 &8668723333794737077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042149481212873622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244191537c8d4ab43b5dad7d8d2b030f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnerController
+  _enemyId: Spawner
+  _summonEnemyId: Kamikaze
+  _mouthTransform: {fileID: 6275424175297781057}
+  _animator: {fileID: 6912642752765007605}
+  _dissolveEffect: {fileID: 3794746656449613215}
+--- !u!114 &3794746656449613215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042149481212873622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b70920b9499a0444800cbb96fd38bdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDissolveEffect
+  _dissolveDuration: 1.5
+  _dissolveDelay: 0.5
+  _dissolveCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _renderers:
+  - {fileID: 3436506271979925354}
+--- !u!1 &6527529581820931350
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7612532375455380960}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_JawRight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7612532375455380960
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6527529581820931350}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.27045497, y: 0.09060099, z: 0.37728864, w: 0.88107824}
+  m_LocalPosition: {x: 0.10998802, y: -0.69848907, z: 0.45000014}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3205693338493350445}
+  m_LocalEulerAnglesHint: {x: -32.246357, y: -4.7520037, z: -11.810126}
+--- !u!1 &6731704461946264413
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5125414751258693533}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftFront2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5125414751258693533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6731704461946264413}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.1378846, y: 0.040791243, z: 0.2807347, w: 0.9489531}
+  m_LocalPosition: {x: -0.26408684, y: 0.0000006866455, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5274942737715547236}
+  m_Father: {fileID: 3163197139909791011}
+  m_LocalEulerAnglesHint: {x: 16.21796, y: 3.2647512, z: 11.543283}
+--- !u!1 &7170122518180190591
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6347324617462857411}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightFront3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6347324617462857411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7170122518180190591}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.07491273, y: -0.029085055, z: 0.13450551, w: 0.98764896}
+  m_LocalPosition: {x: -0.4347103, y: -0.00000030517577, z: -0.000000076293944}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 0.9999995}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6318100027825360706}
+  m_LocalEulerAnglesHint: {x: 10.678133, y: 8.061355, z: 2.2430377}
+--- !u!1 &7372812232062306014
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5565257840176975064}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftRear2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5565257840176975064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7372812232062306014}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00024567227, y: -0.30843547, z: 0.0022329788, w: 0.9512426}
+  m_LocalPosition: {x: -0.38509902, y: -0.0000004959106, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3041695669573459338}
+  m_Father: {fileID: 6575872513642112046}
+  m_LocalEulerAnglesHint: {x: 0.19191417, y: -61.02919, z: 0.37578124}
+--- !u!1 &7586158819666617140
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4346169547269481775}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftMiddle1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4346169547269481775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7586158819666617140}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.51455325, y: 0.63772994, z: 0.35562283, w: -0.44951963}
+  m_LocalPosition: {x: 0.100650996, y: -0.3707203, z: -0.6455084}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4984415270487773584}
+  m_Father: {fileID: 9025812676416144903}
+  m_LocalEulerAnglesHint: {x: -72.323044, y: -70.46393, z: -24.740107}
+--- !u!1 &7691127830832541136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6575872513642112046}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftRear1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6575872513642112046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7691127830832541136}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.3777177, y: 0.65087664, z: 0.5168232, w: -0.40814555}
+  m_LocalPosition: {x: 0.7191729, y: -0.24888107, z: -0.5466762}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5565257840176975064}
+  m_Father: {fileID: 9025812676416144903}
+  m_LocalEulerAnglesHint: {x: -57.06827, y: -42.97934, z: -70.254906}
+--- !u!1 &7702250344177427680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1387635721198990591}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftMiddle3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1387635721198990591
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7702250344177427680}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00735311, y: 0.43194267, z: 0.00005281804, w: 0.9018711}
+  m_LocalPosition: {x: -0.45338866, y: -0.000000042915342, z: 0}
+  m_LocalScale: {x: 0.99999964, y: 0.9999997, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4984415270487773584}
+  m_LocalEulerAnglesHint: {x: 8.176898, y: 56.98889, z: 7.6985083}
+--- !u!1 &7702639300734267990
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3041695669573459338}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegLeftRear3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3041695669573459338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7702639300734267990}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.008037013, y: 0.36017224, z: 0.0016383256, w: 0.93284976}
+  m_LocalPosition: {x: -0.4852722, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999998, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5565257840176975064}
+  m_LocalEulerAnglesHint: {x: 11.28489, y: 35.964905, z: 4.91293}
+--- !u!1 &7837070138458981519
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8507502903370565398}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightRear2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8507502903370565398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7837070138458981519}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0002456841, y: -0.3084363, z: -0.0022329025, w: 0.9512423}
+  m_LocalPosition: {x: -0.38509908, y: 0.0000003814697, z: -0.000000076293944}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 0.9999997}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5992718203556923}
+  m_Father: {fileID: 8905847509792685923}
+  m_LocalEulerAnglesHint: {x: -0.15833026, y: -55.767994, z: -0.35513252}
+--- !u!1 &8407161829871811087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4030407929133437166}
+  m_Layer: 6
+  m_Name: MegaspikanLarvae_LegRightMiddle3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4030407929133437166
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8407161829871811087}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0073533575, y: 0.4319423, z: -0.00005279284, w: 0.90187126}
+  m_LocalPosition: {x: -0.4533889, y: 0.000000038146972, z: 0.000000076293944}
+  m_LocalScale: {x: 0.99999976, y: 0.9999997, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4108716799133056063}
+  m_LocalEulerAnglesHint: {x: -7.7296853, y: 50.37867, z: -8.99939}

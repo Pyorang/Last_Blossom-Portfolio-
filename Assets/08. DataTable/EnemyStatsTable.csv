@@ -1,0 +1,6 @@
+ID,MaxHP,AttackDamage,AttackCooldown,MoveSpeed,RotationSpeed,AggroRange,AggroReleaseRange,PlayerStoppingDistance,SpiritTreeStoppingDistance
+Melee,4500,30,2,2,360,5,8,1.5,4.5
+Ranged,2000,50,3,3,360,8,10,7,7
+Kamikaze,100,200,1.5,4.1,360,0,0,0,3
+Spawner,3000,0,5,2,360,0,0,0,30
+Tank,15000,150,3,2,180,10,16,2,5
