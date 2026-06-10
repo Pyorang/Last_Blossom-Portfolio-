@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b19c673d9baea146a4de3c6566d5bb4, type: 3}
+  m_Name: PerkIconDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::PerkIconDatabase
+  _entries:
+  - PerkId: BladeWind
+    Icon: {fileID: 21300000, guid: 7ac9d1a5223bfde4aad9f91988023e80, type: 3}
+  - PerkId: TailWind
+    Icon: {fileID: 21300000, guid: 1983f5cf5ae14254c95119c56cbbe878, type: 3}
+  - PerkId: BurningWind
+    Icon: {fileID: 21300000, guid: 2d309972972820b46b5479df33a85199, type: 3}
+  - PerkId: LingeringWind
+    Icon: {fileID: 21300000, guid: 4a82aac0f47e3664a856779abe6de14f, type: 3}
+  - PerkId: StormBeginning
+    Icon: {fileID: 21300000, guid: bf16757e6a0c152408719216addb7778, type: 3}
+  - PerkId: SwiftWind
+    Icon: {fileID: 21300000, guid: 1ae46b0fdbdad084098d97b26b45c1d2, type: 3}
+  - PerkId: WildWind
+    Icon: {fileID: 21300000, guid: b4483da881587a54c8298d3215ebe108, type: 3}
+  - PerkId: SuctionWind
+    Icon: {fileID: 21300000, guid: 23e4addb56205834cbb92f32c18678b4, type: 3}
+  - PerkId: VitalWind
+    Icon: {fileID: 21300000, guid: 7492eb3894d7f00418741588c18b40a6, type: 3}
+  - PerkId: SuddenGust
+    Icon: {fileID: 21300000, guid: fcded676d59e8734e9b52af9c04209ff, type: 3}
+  - PerkId: LastingWind
+    Icon: {fileID: 21300000, guid: a8d6714e03518fd48a873382d510380e, type: 3}
+  - PerkId: CuttingWind
+    Icon: {fileID: 21300000, guid: 74ab4c2d23cf33c4b955ce07715e243a, type: 3}
+  - PerkId: WhirlWind
+    Icon: {fileID: 21300000, guid: 498b0af4ce89f3841bd9b83497a25260, type: 3}
+  - PerkId: PiercingWind
+    Icon: {fileID: 21300000, guid: 34339ffdaed4d32449575bd6db9668cf, type: 3}
+  - PerkId: TwinWind
+    Icon: {fileID: 21300000, guid: 9e3ecf299198b794297f2aa52b947833, type: 3}
+  - PerkId: Typhoon
+    Icon: {fileID: 21300000, guid: 7a0bb7ca35b6e7a44a14f42479b68eb8, type: 3}
+  - PerkId: ReturnWind
+    Icon: {fileID: 21300000, guid: b28e310b18b09ef4f90f93cb3ba432da, type: 3}
+  _defaultIcon: {fileID: 21300000, guid: 7184ad6732e388443982c7d8bbf5ee47, type: 3}
